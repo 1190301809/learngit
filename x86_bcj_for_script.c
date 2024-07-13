@@ -179,13 +179,13 @@ void read_binary_data(const char *input_file, const char *output_txt_file) {
 
 int main(int argc, char *argv[])
 {
-    const char *input_file = "testfile";
-    const char *output_file = "testfile_processed";
-    bool is_encoder = true; // Set to true if encoding, false if decoding
+    // const char *input_file = "testfile";
+    // const char *output_file = "testfile_processed";
+    // bool is_encoder = true; // Set to true if encoding, false if decoding
 
-    // const char *input_file = "testfile_processed";
-    // const char *output_file = "testfile_decode";
-    // bool is_encoder = false; // Set to true if encoding, false if decoding
+    const char *input_file = argv[1];
+    const char *output_file = argv[2];
+    bool is_encoder = (atoi(argv[3]) != 0);
 
     FILE *input = fopen(input_file, "rb");
     if (input == NULL) {
@@ -216,15 +216,14 @@ int main(int argc, char *argv[])
     while ((read_size = fread(buffer, 1, sizeof(buffer), input)) > 0) {
         size_t processed_size = x86_code(&simple, now_pos, is_encoder, buffer, read_size);
         fwrite(buffer, 1, processed_size + (size_t)4, output);
-        //now_pos += processed_size + (size_t)4;
-        now_pos += (size_t)read_size;
+        now_pos += processed_size + (size_t)4;
     }
 
     fclose(input);
     fclose(output);
 
-    read_binary_data("testfile","before_bcj.txt");
-    read_binary_data("testfile_processed","after_bcj.txt");
+    // read_binary_data("testfile","before_bcj.txt");
+    // read_binary_data("testfile_processed","after_bcj.txt");
 
     return 0;
 }
