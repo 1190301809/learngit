@@ -50,7 +50,7 @@ x86_code(void *simple_ptr, uint32_t now_pos, bool is_encoder,
 		if (offset > 5) {
 			prev_mask = 0;
 		} else {
-			for (uint32_t i = 0; i < offset; ++i) {
+ 			for (uint32_t i = 0; i < offset; ++i) {
 				prev_mask &= 0x77;
 				prev_mask <<= 1;
 			}
@@ -200,8 +200,15 @@ int main(int argc, char *argv[])
         return 1;
     }
 
+    // 先获取文件的大小
+    fseek(input, 0, SEEK_END); // 定位到文件末尾
+    long file_size = ftell(input); // 获取文件指针当前位置，即文件大小
+    fseek(input, 0, SEEK_SET); // 将文件指针重新定位到文件开头
+
     // Buffer for file content
-    uint8_t buffer[BUFFER_SIZE];
+    // uint8_t buffer[BUFFER_SIZE];
+    // 分配足够大的缓冲区来存储整个文件内容
+    uint8_t *buffer = (uint8_t *)malloc(file_size + 1); // 加1是为了存放字符串结束符 '\0'
     size_t read_size;
 
     // Initialize the BCJ state
@@ -213,12 +220,22 @@ int main(int argc, char *argv[])
     uint32_t now_pos = 0;
 
     // Read the input file, process it and write to the output file
-    while ((read_size = fread(buffer, 1, sizeof(buffer), input)) > 0) {
-        size_t processed_size = x86_code(&simple, now_pos, is_encoder, buffer, read_size);
-        fwrite(buffer, 1, processed_size + (size_t)4, output);
-        //now_pos += processed_size + (size_t)4;
-        now_pos += (size_t)read_size;
+    // while ((read_size = fread(buffer, 1, sizeof(buffer), input)) > 0) {
+    //     size_t processed_size = x86_code(&simple, now_pos, is_encoder, buffer, read_size);
+    //     fwrite(buffer, 1, (size_t)read_size, output);
+    //     //now_pos += processed_size;
+    //     now_pos += (size_t)read_size;
+    // }
+
+    size_t result = fread(buffer, 1, file_size, input);
+
+    if (result != file_size) {
+        fprintf(stderr, "读取文件失败\n");
+        exit(1);
     }
+
+    size_t processed_size = x86_code(&simple, now_pos, is_encoder, buffer, file_size);
+    fwrite(buffer, 1, (size_t)file_size, output);
 
     fclose(input);
     fclose(output);

@@ -200,8 +200,13 @@ int main(int argc, char *argv[])
         return 1;
     }
 
+    fseek(input, 0, SEEK_END); // 定位到文件末尾
+    long file_size = ftell(input); // 获取文件指针当前位置，即文件大小
+    fseek(input, 0, SEEK_SET); // 将文件指针重新定位到文件开头
+
     // Buffer for file content
-    uint8_t buffer[BUFFER_SIZE];
+    // uint8_t buffer[BUFFER_SIZE];
+    uint8_t *buffer = (uint8_t *)malloc(file_size + 1); // 加1是为了存放字符串结束符 '\0'
     size_t read_size;
 
     // Initialize the BCJ state
@@ -212,18 +217,18 @@ int main(int argc, char *argv[])
 
     uint32_t now_pos = 0;
 
-    // Read the input file, process it and write to the output file
-    while ((read_size = fread(buffer, 1, sizeof(buffer), input)) > 0) {
-        size_t processed_size = x86_code(&simple, now_pos, is_encoder, buffer, read_size);
-        fwrite(buffer, 1, processed_size + (size_t)4, output);
-        now_pos += processed_size + (size_t)4;
+    size_t result = fread(buffer, 1, file_size, input);
+
+    if (result != file_size) {
+        fprintf(stderr, "读取文件失败\n");
+        exit(1);
     }
+
+    size_t processed_size = x86_code(&simple, now_pos, is_encoder, buffer, file_size);
+    fwrite(buffer, 1, (size_t)file_size, output);
 
     fclose(input);
     fclose(output);
-
-    // read_binary_data("testfile","before_bcj.txt");
-    // read_binary_data("testfile_processed","after_bcj.txt");
 
     return 0;
 }
