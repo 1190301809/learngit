@@ -6,7 +6,7 @@ output_dir_bcj=${input_dir}_bcj
 output_dir_compressed=${input_dir}_compressed
 output_file="file_sizes.txt"
 
-X86_BCJ_EXE=./x86_bcj_for_script.exe
+BCJ_EXE=${2:-./x86_bcj_for_script.exe}
 XZ=/mnt/c/Users/mikuk/Desktop/share/ROFS_XMAN/1.bin/bin/xz
 
 
@@ -22,7 +22,7 @@ for input_file in "$input_dir"/*; do
     if [ -f "$input_file" ]; then
         filename=$(basename "$input_file")
         output_file_bcj="$output_dir_bcj/${filename}.bcj"
-        ${X86_BCJ_EXE} "$input_file" "$output_file_bcj" 1  &
+        ${BCJ_EXE} "$input_file" "$output_file_bcj" 1  &
     fi
 done
 wait
@@ -53,43 +53,35 @@ print_all_result()
 	done
 
 	# echo "文件名 原始大小 压缩大小 bcj压缩大小"
-	printf "%-30s%-20s%-20s%-20s\n" "Filename" "Size" "Bcj_Compressed_size" "Compressed_size"
+	printf "%-45s%-25s%-25s%-25s%-25s\n" "Filename" "Size" "Bcj_Compressed_size" "Compressed_size" "Optimization rate"
 	# printf "%-30s%    -15s%    -15s%    -15s\n" "文件名" "原始大小" "压缩大小" "bcj压缩大小"
 	for f in `ls $input_dir/*`
 	do
 		filename=$(basename $f)
 		# echo -n $filename
-		printf "%-30s" $filename
+		printf "%-45s" $filename
+		# 清空变量
+    	size_xz=0
+    	size_bcj_xz=0
 		for x in `ls $output_dir_compressed/${filename}* | sort`
 		do
 			file_size=$(stat -c%s "$x")
 			# echo -n " " $file_size
-			printf "%-20s" $file_size
+			printf "%-25s" $file_size
+			if [[ "$x" == *.bcj.xz ]]; then
+            	size_bcj_xz=$file_size
+        	elif [[ "$x" == *.xz ]]; then
+            	size_xz=$file_size
+        	fi
 		done
+		# 计算优化率
+    	if [[ $size_xz -gt 0 ]]; then
+        	rate=$(awk "BEGIN { printf \"%.2f\", ($size_xz - $size_bcj_xz) / $size_xz * 100 }")
+    	else
+        	rate="N/A"
+    	fi	
+		printf "%-25s\n" "$rate%"	
 		echo ""
 	done
-	#compressed_file_size=$(stat -c%s "$output_file_compressed")
-
-        # 计算压缩率（使用纯 Bash）
-	#if [ $original_file_size -ne 0 ]; then
-	#	compression_ratio=$(awk "BEGIN {printf \"%.2f\", ($compressed_file_size / $original_file_size) * 100}")
-	#else
-	#	compression_ratio=0
-	#fi
-            
-        # 将文件名、压缩后文件大小和压缩率写入输出文件
-	#echo "$filename: Compressed Size = $compressed_file_size bytes, Compression Ratio = $compression_ratio%" >> "$output_file"
-
 }
 print_all_result
-# # 遍历输入目录中的所有文件并获取它们的大小
-# for file in "$output_dir_compressed"/*; do
-#   if [ -f "$file" ]; then
-#     # 获取文件大小和文件名
-    
-#     # 将文件名和文件大小写入输出文件
-#     echo "$file_name: $file_size bytes" >> "$output_file"
-#   fi
-# done
-
-#echo "处理完成，所有文件已放入 $output_dir_bcj 和 $output_dir_compressed 目录中。"
