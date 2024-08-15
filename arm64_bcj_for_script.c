@@ -2,7 +2,48 @@
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "../ROFS_XMAN/0.src/xz/src/common/tuklib_integer.h"
+#include <string.h>
+//#include "../ROFS_XMAN/0.src/xz/src/common/tuklib_integer.h"
+
+// 检查系统的字节序，判断是小端还是大端
+#if __BYTE_ORDER__ == __ORDER_LITTLE_ENDIAN__
+#define IS_LITTLE_ENDIAN 1
+#else
+#define IS_LITTLE_ENDIAN 0
+#endif
+
+// 如果是大端系统，定义字节交换宏
+#ifndef bswap32
+#define bswap32(n) (uint32_t)( \
+      (((n) & UINT32_C(0x000000FF)) << 24) | \
+      (((n) & UINT32_C(0x0000FF00)) << 8)  | \
+      (((n) & UINT32_C(0x00FF0000)) >> 8)  | \
+      (((n) & UINT32_C(0xFF000000)) >> 24) \
+    )
+#endif
+
+// 读取32位小端整数
+static inline uint32_t read32le(const uint8_t *buf) {
+    uint32_t num;
+    memcpy(&num, buf, sizeof(num));
+    
+    // 如果系统是大端序，则进行字节交换
+    if (!IS_LITTLE_ENDIAN) {
+        num = bswap32(num);
+    }
+    
+    return num;
+}
+
+// 写入32位小端整数
+static inline void write32le(uint8_t *buf, uint32_t num) {
+    if (!IS_LITTLE_ENDIAN) {
+        num = bswap32(num);
+    }
+    
+    memcpy(buf, &num, sizeof(num));
+}
+
 
 static size_t arm64_code(uint32_t now_pos, bool is_encoder,
 		uint8_t *buffer, size_t size)
