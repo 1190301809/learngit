@@ -1,0 +1,1026 @@
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/asus_framework.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/AcPowerNotification/AcPowerNotification.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ArmourySocketServer/ArmouryHtmlDebugServer.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ArmourySocketServer/ArmourySocketServer.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ArmourySocketServer/ArmouryWebBrowser.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ArmourySocketServer/ArmouryWebBrowserEdge.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ArmourySocketServer/AuraIC_x64.dll
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ArmourySocketServer/libcrypto-1_1-x64.dll
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ArmourySocketServer/PreUninstallArmourySocketServer.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/FilterDriver/x64/devcon.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/FilterDriver/x64/pnputil.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/FilterDriver/x64/Win10/ROGMS/ArmouryLiveUpdate.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/FilterDriver/x64/Win10/ROGMS/ArmouryUpdate.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/FilterDriver/x64/Win10/ROGMS/EzULIB_UFB.dll
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/FilterDriver/x64/Win10/ROGMS/killproc.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/FilterDriver/x64/Win11/ROGMS/ArmouryLiveUpdate.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/FilterDriver/x64/Win11/ROGMS/ArmouryUpdate.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/FilterDriver/x64/Win11/ROGMS/EzULIB_UFB.dll
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/FilterDriver/x64/Win11/ROGMS/killproc.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/Schedule/AsTaskSchedArg.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/Schedule/KillProc_framewoork.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/Schedule/RegSchdTask.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ShareFromArmouryIII/Mouse/ROG Strix Impact/P303LocalUpdate.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ShareFromArmouryIII/Mouse/ROG Strix Impact/Upgrade_P303/ISP.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ShareFromArmouryIII/Mouse/TUF GAMING M3/P305LocalUpdate.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ShareFromArmouryIII/Mouse/TUF GAMING M3/Upgrade_P305/P305_FWUpdateTool.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ShareFromArmouryIII/Mouse/TUF GAMING P308/P305LocalUpdate.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/ShareFromArmouryIII/Mouse/TUF GAMING P308/Upgrade_P305/P308_FWUpdateTool.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/SwAgent/ArmourySwAgent.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/SwAgent/FanOSD/FanOSD.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/dll/Tools/RegSchdTask.exe
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/node_modules/sharp/prebuilds/win32-ia32/libglib-2.0-0.dll
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/node_modules/sharp/prebuilds/win32-ia32/libvips-42.dll
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/ssl/openssl/libcrypto-1_1-x64.dll
+/mnt/c/Program Files (x86)/ASUS/ArmouryDevice/ssl/openssl/openssl.exe
+/mnt/c/Program Files (x86)/ASUS/ASUS Smart Display Control/ASUSSmartDisplayControl.exe
+/mnt/c/Program Files (x86)/ASUS/ASUS Smart Display Control/Setup_tool.exe
+/mnt/c/Program Files (x86)/ASUS/ASUS Smart Display Control/vc_redist.x86.exe
+/mnt/c/Program Files (x86)/ASUS/AsusCertService/AsusCertService.exe
+/mnt/c/Program Files (x86)/ASUS/AURA lighting effect add-on/LM_Support.exe
+/mnt/c/Program Files (x86)/ASUS/GameSDK Service/cpprest141_2_10.dll
+/mnt/c/Program Files (x86)/ASUS/GameSDK Service/GameSDK.exe
+/mnt/c/Program Files (x86)/ASUS/Update/1.3.107.113/asupdate.dll
+/mnt/c/Program Files (x86)/ASUS/Update/1.3.107.113/AsusCrashHandler.exe
+/mnt/c/Program Files (x86)/ASUS/Update/1.3.107.113/AsusCrashHandler64.exe
+/mnt/c/Program Files (x86)/ASUS/Update/1.3.107.113/AsusUpdate.exe
+/mnt/c/Program Files (x86)/ASUS/Update/1.3.107.113/AsusUpdateBroker.exe
+/mnt/c/Program Files (x86)/ASUS/Update/1.3.107.113/AsusUpdateComRegisterShell64.exe
+/mnt/c/Program Files (x86)/ASUS/Update/1.3.107.113/AsusUpdateCore.exe
+/mnt/c/Program Files (x86)/ASUS/Update/1.3.107.113/AsusUpdateOnDemand.exe
+/mnt/c/Program Files (x86)/ASUS/Update/1.3.107.113/AsusUpdater.exe
+/mnt/c/Program Files (x86)/ASUS/Update/1.3.107.113/AsusUpdateSetup.exe
+/mnt/c/Program Files (x86)/ASUS/Update/1.3.107.113/Get-AppxVersion.exe
+/mnt/c/Program Files (x86)/ASUS/Update/AsusUpdate.exe
+/mnt/c/Program Files (x86)/Battle.net/Battle.net Launcher.exe
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/Battle.net Helper.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/battle.net.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/BlizzardError.exe
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/libcef.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/libGLESv2.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/platforms/qwindows.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/Qt5Core.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/Qt5Gui.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/Qt5Qml.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/Qt5Quick.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/Qt5Widgets.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/Qt5XmlPatterns.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/swiftshader/libGLESv2.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/ucrtbase.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14647/vivoxsdk.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/Battle.net Helper.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/battle.net.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/BlizzardError.exe
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/chrome_elf.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/libcef.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/libGLESv2.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/platforms/qwindows.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/Qt5Core.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/Qt5Gui.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/Qt5Qml.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/Qt5Quick.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/Qt5Widgets.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/Qt5XmlPatterns.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/swiftshader/libGLESv2.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/ucrtbase.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/vivoxsdk.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.14835/vk_swiftshader.dll
+/mnt/c/Program Files (x86)/Battle.net/Battle.net.exe
+/mnt/c/Program Files (x86)/Common Files/Foxit/Foxit PDF Editor/FoxitPDFEditorUpdateService.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/ink/InkObj.dll
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/ink/micaut.dll
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/ink/mraut.dll
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/ink/mshwchsr.dll
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/ink/mshwLatin.dll
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/ink/pipanel.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/ink/TabTip32.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/MSEnv/VSFileHandler.dll
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/MSEnv/VSFileHandler_64.dll
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/MSEnv/VSLauncher.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/MSEnv/VSWebLauncher.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/MSInfo/msinfo32.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/12.0/Debugger/target/armv4i/dxcap.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/12.0/Debugger/target/armv4i/dxcapturereplay.dll
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/12.0/Debugger/target/armv4i/vsgraphicsremoteengine.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/12.0/Debugger/target/x86/dxcap.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/12.0/Debugger/target/x86/dxcapturereplay.dll
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/12.0/Debugger/target/x86/vsgraphicsremoteengine.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/CoreCon/12.0/Target/wce400/armv4i/clientshutdown3.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/CoreCon/12.0/Target/wce400/armv4i/CMAccept3.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/CoreCon/12.0/Target/wce400/armv4i/ConmanClient3.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/CoreCon/12.0/Target/wce400/x86/clientshutdown3.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/CoreCon/12.0/Target/wce400/x86/CMAccept3.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Phone Tools/CoreCon/12.0/Target/wce400/x86/ConmanClient3.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/TextTemplating/14.0/TextTransform.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/VS7Debug/VsImmersiveActivateHelper.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/VS7Debug/VsImmersiveActivateHelper140.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/VsHub/1.0.0.0/Microsoft.VsHub.Server.HttpHost.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/VsHub/1.0.0.0/Microsoft.VsHub.Server.HttpHostx64.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/VsHub/1.0.0.0/Microsoft.VsHub.Server.ServiceModuleHost.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/VsHub/1.0.0.0/Microsoft.VsHub.Server.ServiceModuleHostx64.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/VsHub/1.0.0.0/VsHub.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/VsHub/ServiceModules/Settings/1.0/bin/Microsoft.ServiceBus.dll
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/VSTO/10.0/VSTOInstaller.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Windows Simulator/14.0/Microsoft.Windows.Simulator.exe
+/mnt/c/Program Files (x86)/Common Files/Microsoft Shared/Windows Simulator/14.0/Microsoft.Windows.Simulator.Service.exe
+/mnt/c/Program Files (x86)/Common Files/Steam/drivers/Windows10/x64/WdfCoinstaller01009.dll
+/mnt/c/Program Files (x86)/Common Files/Steam/drivers/Windows10/x86/WdfCoinstaller01009.dll
+/mnt/c/Program Files (x86)/Common Files/Steam/drivers/Windows8.1/x64/WdfCoinstaller01009.dll
+/mnt/c/Program Files (x86)/Common Files/Steam/drivers/Windows8.1/x86/WdfCoinstaller01009.dll
+/mnt/c/Program Files (x86)/Common Files/Steam/drivers.exe
+/mnt/c/Program Files (x86)/Common Files/Steam/secure_desktop_capture.exe
+/mnt/c/Program Files (x86)/Common Files/Steam/SteamService.dll
+/mnt/c/Program Files (x86)/Common Files/Steam/steamservice.exe
+/mnt/c/Program Files (x86)/Common Files/Steam/steamxboxutil64.exe
+/mnt/c/Program Files (x86)/Common Files/System/ado/msado15.dll
+/mnt/c/Program Files (x86)/Common Files/Tencent/QQDownload/135/dlcore.dll
+/mnt/c/Program Files (x86)/Common Files/Tencent/QQDownload/135/Tencentdl.exe
+/mnt/c/Program Files (x86)/Common Files/Tencent/QQProtect/Bin/BugReport.exe
+/mnt/c/Program Files (x86)/Common Files/Tencent/QQProtect/Bin/common.dll
+/mnt/c/Program Files (x86)/Common Files/Tencent/QQProtect/Bin/QPLocalSvrPlugin.dll
+/mnt/c/Program Files (x86)/Common Files/Tencent/QQProtect/Bin/QPNotify.exe
+/mnt/c/Program Files (x86)/Common Files/Tencent/QQProtect/Bin/QQProtect.exe
+/mnt/c/Program Files (x86)/Common Files/Tencent/QQProtect/Bin/QQProtectEngine.dll
+/mnt/c/Program Files (x86)/Common Files/Tencent/QQProtect/Bin/QQProtectUpd.exe
+/mnt/c/Program Files (x86)/Common Files/VMware/USB/DriverCache/vnetlib.dll
+/mnt/c/Program Files (x86)/Common Files/VMware/USB/DriverCache/vnetlib.exe
+/mnt/c/Program Files (x86)/Common Files/VMware/USB/DriverCache/vnetlib64.dll
+/mnt/c/Program Files (x86)/Common Files/VMware/USB/DriverCache/vnetlib64.exe
+/mnt/c/Program Files (x86)/Common Files/VMware/USB/vmware-usbarbitrator.exe
+/mnt/c/Program Files (x86)/Common Files/VMware/USB/vmware-usbarbitrator64.exe
+/mnt/c/Program Files (x86)/Common Files/VMware/USB/vnetlib.dll
+/mnt/c/Program Files (x86)/Common Files/VMware/USB/vnetlib.exe
+/mnt/c/Program Files (x86)/Common Files/VMware/USB/vnetlib64.dll
+/mnt/c/Program Files (x86)/Common Files/VMware/USB/vnetlib64.exe
+/mnt/c/Program Files (x86)/DingDing/DingtalkElevate.exe
+/mnt/c/Program Files (x86)/DingDing/DingtalkLauncher.exe
+/mnt/c/Program Files (x86)/DingDing/DingtalkScheme.exe
+/mnt/c/Program Files (x86)/DingDing/DingTalkUpdater.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/7z.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/AliRTCSdk.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/alivcffmpeg.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/calendar_m.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/conf.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/cpprest_2_10.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/CrashDumper.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/dingpan_sync.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/DingSyncShellExtension_x64.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/DingSyncShellExtension_x86.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/DingTalk.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/DingTalkCheck.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/DingtalkCleaner.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/DingTalkSnippingTool.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/DingTalkSupportTool.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/doctor.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/dtnest.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/dtnest_module.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/dtre10.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/dtriver.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/dtview.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/dt_doctor.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/dt_resource_loader.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/ffmpeg.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/flutter_windows.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/ipc_core.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/jsi/jsi.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/libcrypto-1_1-x64.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/libgaea.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/libtransfer.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/MainFrame.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/nf_sdk.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/AliSafePath.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/AliSafeProxy.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/arphaCrashReport64.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/arphadump64.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/CcrcForPc.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/dbghelp64.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/MNN.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/NetCore.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/opencv_world343.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/python.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/Report.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/ccrc/SecurityGuardSDK64.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/dtwebview/chrome_elf.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/dtwebview/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/dtwebview/dbghelp.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/dtwebview/dt_web_view.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/dtwebview/libcef.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/dtwebview/libGLESv2.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/dtwebview/swiftshader/libGLESv2.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/dtwebview/vk_swiftshader.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/AliRTCSdk.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/alivcffmpeg.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/avcodec-58.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/avfilter-7.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/avformat-58.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/classroom.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/conf.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/conference_new.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/CrashDumper.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/d3dcsx_47.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/dbghelp.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/ffmpeg.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/gray/race.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/hbal_se.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/kashost.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/libcrypto-1_1.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/libGLESv2.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/libopus-0.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/libsrt.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/libvpx-1.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/libx264-157.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/libx265.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/live_new.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/meeting_sdk.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/MNN.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/MoziWhiteboard.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/MoziWhiteboardd.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/obs-ffmpeg-mux.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/opencv_core410.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/opencv_imgproc410.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/opencv_world410.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/platforms/qwindows.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/prgbase.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/Qt5Core.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/Qt5Gui.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/Qt5Widgets.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/race.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/tblive.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/ucrtbase.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/bin/32bit/UIS-WINDOWS.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/plugins/tblive/data/obs-plugins/win-capture/get-graphics-offsets32.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/qt5/plugins/platforms/qwindows.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/Qt5Core.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/Qt5Gui.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/Qt5Widgets.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/runtime_v8.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/SecurityGuardSDK64.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/session.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/shell_extension_register.exe
+/mnt/c/Program Files (x86)/DingDing/main/current/TangleSDK.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/UTDID.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/UTForPC.dll
+/mnt/c/Program Files (x86)/DingDing/main/current/XcdnApi.dll
+/mnt/c/Program Files (x86)/DingDing/uninst.exe
+/mnt/c/Program Files (x86)/dotnet/dotnet.exe
+/mnt/c/Program Files (x86)/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/6.0.20/ref/net6.0/System.Windows.Forms.dll
+/mnt/c/Program Files (x86)/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/7.0.9/ref/net7.0/System.Windows.Forms.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.AspNetCore.App/6.0.20/Microsoft.AspNetCore.Mvc.Core.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.AspNetCore.App/6.0.20/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.AspNetCore.App/7.0.9/Microsoft.AspNetCore.Mvc.Core.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.AspNetCore.App/7.0.9/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/clrjit.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/coreclr.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/createdump.exe
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/Microsoft.DiaSymReader.Native.x86.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/Microsoft.VisualBasic.Core.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/mscordaccore.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/mscordaccore_x86_x86_6.0.2023.32017.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/mscordbi.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/System.Data.Common.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/System.Linq.Expressions.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/System.Net.Http.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/System.Private.CoreLib.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/System.Private.DataContractSerialization.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/System.Private.Xml.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/System.Reflection.Metadata.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/System.Text.Json.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/6.0.20/ucrtbase.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/clrjit.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/coreclr.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/createdump.exe
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/Microsoft.DiaSymReader.Native.x86.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/Microsoft.VisualBasic.Core.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/mscordaccore.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/mscordaccore_x86_x86_7.0.923.32018.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/mscordbi.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/System.Data.Common.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/System.Linq.Expressions.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/System.Net.Http.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/System.Private.CoreLib.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/System.Private.DataContractSerialization.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/System.Private.Xml.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/System.Reflection.Metadata.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/System.Security.Cryptography.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.NETCore.App/7.0.9/System.Text.Json.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/6.0.20/D3DCompiler_47_cor3.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/6.0.20/PresentationCore.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/6.0.20/PresentationFramework.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/6.0.20/PresentationUI.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/6.0.20/ReachFramework.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/6.0.20/System.Windows.Controls.Ribbon.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/6.0.20/System.Windows.Forms.Design.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/6.0.20/System.Windows.Forms.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/6.0.20/System.Xaml.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/6.0.20/WindowsBase.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/6.0.20/wpfgfx_cor3.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/D3DCompiler_47_cor3.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/PresentationCore.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/PresentationFramework.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/PresentationUI.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/ReachFramework.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/System.Drawing.Common.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/System.Windows.Controls.Ribbon.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/System.Windows.Forms.Design.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/System.Windows.Forms.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/System.Xaml.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/WindowsBase.dll
+/mnt/c/Program Files (x86)/dotnet/shared/Microsoft.WindowsDesktop.App/7.0.9/wpfgfx_cor3.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/appmain.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/AudioEnc.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/avcodec-53.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/bizim.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/BugReport.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/channellogic.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/D3DX9_43.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/feedback.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/ffmpeg/avcodec-58.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/ffmpeg/avformat-58.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/libcef.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/libeay32.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/libGLESv2.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/overlay/MosTest.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/overlay/n_overlay.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/overlay/n_overlay.x64.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/overlay/n_ovhelper.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/overlay/n_ovhelper.x64.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/reportsdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/swiftshader/libGLESv2.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/transvod/avcodec-sc.x86-58.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/transvod/libcrypto-1_1.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/transvod/SDL2.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/transvod/vodplayer.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.cefdev2/131074/yycefchannel.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/BugReport.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/DaemonService.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/DmMain.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/Downloader/YGDownLoader.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/GPBase.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/GPlatform.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/GPRender.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/iedev.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/IPC.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/MountPlayer.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/MouseClick.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/PWRender.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/TlsTool.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/ucrtbase.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/Update.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/YGLauncher.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/ygUpdateCheck.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/ygUpdateDisp.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.gameproxy/196608/yygame.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.processservice/196608/gslbexternal.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/d3dx9_30.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/libzplay.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/archecker.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/avcodec-sc.x86-58.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/avrecorder.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/foxsdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/HappyLive.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/libcrypto-1_1.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/libx264-148.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/rtshare.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/thunderbolt.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/venus2.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/VideoSdk-sc.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/vodplayer.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.videoservice/131329/media/yyaudiosdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/components/com.yy.vip/196608/yyvip.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/duifw.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/dwutility.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/ImProtocol.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/installstat.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/libcurl.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/logincore.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/logonbd.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/logonbd_xp.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/openplatform.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/QtCore4.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/QtGui4.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/reportsdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/ucrtbase.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/udbauthsdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/videosdk/avcodec-57.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/videosdk/dwipcproc.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/videosdk/dwipcproc_x64.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/videosdk/hwCodecTest.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/videosdk/libx265.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/videosdk/TransMod.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/YY.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/yybrowser.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/yychannel.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/yycommon.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/yycommonresource.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/yyexternal.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/yygroup.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/yyim.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/yyplatform.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/yyplatformsdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.26.0.0/yyrun.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/appmain.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/AudioEnc.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/avcodec-53.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/bizim.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/BugReport.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/channellogic.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/D3DX9_43.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/feedback.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/ffmpeg/avcodec-58.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/ffmpeg/avformat-58.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/libcef.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/libeay32.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/libGLESv2.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/overlay/MosTest.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/overlay/n_overlay.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/overlay/n_overlay.x64.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/overlay/n_ovhelper.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/overlay/n_ovhelper.x64.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/reportsdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/swiftshader/libGLESv2.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/transvod/avcodec-sc.x86-58.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/transvod/libcrypto-1_1.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/transvod/SDL2.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/transvod/vodplayer.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.cefdev2/131083/yycefchannel.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/BugReport.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/DaemonService.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/DmMain.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/Downloader/YGDownLoader.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/GPBase.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/GPlatform.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/GPRender.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/iedev.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/IPC.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/MountPlayer.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/MouseClick.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/PWRender.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/TlsTool.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/ucrtbase.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/Update.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/YGLauncher.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/ygUpdateCheck.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/ygUpdateDisp.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.gameproxy/196608/yygame.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.processservice/196608/gslbexternal.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/d3dx9_30.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/libzplay.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/archecker.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/avcodec-sc.x86-58.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/avrecorder.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/foxsdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/HappyLive.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/libcrypto-1_1.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/libx264-148.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/rtshare.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/thunderbolt.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/venus2.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/VideoSdk-sc.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/vodplayer.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.videoservice/131329/media/yyaudiosdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/components/com.yy.vip/196608/yyvip.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/duifw.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/dwutility.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/hydra.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/ImProtocol.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/installstat.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/libcurl.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/logincore.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/logonbd.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/logonbd_xp.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/openplatform.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/QtCore4.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/QtGui4.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/reportsdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/ucrtbase.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/udbauthsdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/Uninstall.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/videosdk/avcodec-57.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/videosdk/dwipcproc.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/videosdk/dwipcproc_x64.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/videosdk/hwCodecTest.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/videosdk/libx265.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/videosdk/TransMod.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/YY.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/YY4.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/yybrowser.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/yychannel.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/yycommon.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/yycommonresource.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/yyexternal.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/yygroup.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/yyim.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/yylauncher.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/yyplatform.exe
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/yyplatformsdk.dll
+/mnt/c/Program Files (x86)/duowan/yy/9.28.0.1/yyrun.exe
+/mnt/c/Program Files (x86)/duowan/yy/Uninstall.exe
+/mnt/c/Program Files (x86)/duowan/yy/YY.exe
+/mnt/c/Program Files (x86)/duowan/yy/yylauncher.exe
+/mnt/c/Program Files (x86)/EasyAntiCheat_EOS/EasyAntiCheat_EOS.exe
+/mnt/c/Program Files (x86)/Epic Games/DirectXRedist/dsetup32.dll
+/mnt/c/Program Files (x86)/Epic Games/DirectXRedist/DXSETUP.exe
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/CEF/Win32/d3dcompiler_43.dll
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/CEF/Win32/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/CEF/Win32/libcef.dll
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/CEF/Win32/libGLESv2.dll
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/CEF/Win32/swiftshader/libGLESv2.dll
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/Engine/Binaries/Win32/CrashReportClient.exe
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/Engine/Binaries/Win32/EOSUE4.dll
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/Engine/Binaries/Win32/ucrtbase.dll
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/EpicOnlineServices.exe
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/EpicOnlineServicesInstallHelper.exe
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/EpicOnlineServicesUIHelper.exe
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/EpicOnlineServicesUserHelper.exe
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/service/EpicOnlineServicesHost.exe
+/mnt/c/Program Files (x86)/Epic Games/Epic Online Services/ucrtbase.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/chrome_elf.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/libcef.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/libGLESv2.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/swiftshader/libGLESv2.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/ICU/icu4c-53_1/Win64/VS2015/icuin53.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/ICU/icu4c-53_1/Win64/VS2015/icuind53.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/ICU/icu4c-53_1/Win64/VS2015/icuuc53.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/ICU/icu4c-53_1/Win64/VS2015/icuucd53.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win32/GfnRuntimeSdk.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/Windows/DirectX/x64/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/Windows/DirectX/x64/dxil.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/Windows/DirectX/x86/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win32/CrashReportClient.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win32/EpicGamesLauncher.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win32/ucrtbase.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/CrashReportClient.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicGamesLauncher.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/UnrealEngineLauncher.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/UnrealVersionSelector.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win32/EpicGamesLauncher.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win32/ucrtbase.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/D3D12/D3D12Core.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/EpicGamesLauncher.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/EOS/InstallChainer.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/EOSBootStrapper/EOSBootStrapper.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/Engine/Binaries/Win32/CrashReportClient.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/EOSOverlayRenderer-Win32-Shipping.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/EOSOverlayRenderer-Win64-Shipping.exe
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/Win32/d3dcompiler_43.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/Win32/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/Win32/libcef.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/Win32/libGLESv2.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/Win32/swiftshader/libGLESv2.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/Win64/d3dcompiler_43.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/Win64/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/Win64/libcef.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/Win64/libGLESv2.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Overlay/Win64/swiftshader/libGLESv2.dll
+/mnt/c/Program Files (x86)/Epic Games/Launcher/Portal/Extras/Redist/LauncherPrereqSetup_x64.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/64BitMailAgent.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Activation.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/adal.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/DotNetBrowser.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Foxit PDF IFilter/IFilterEngine1_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Foxit PDF IFilter/IFilterEngine2_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Foxit PDF IFilter/IFilterEngine3_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Foxit PDF IFilter/IFilterEngine4_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Foxit PDF IFilter/IFilterEngine5_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Foxit PDF IFilter/IFilterEngine6_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Foxit PDF IFilter/IFilterEngine7_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Foxit PDF IFilter/IFilterEngine8_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FoxitPDFCEF.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FoxitPDFEditor.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FoxitPDFEditorConnectedPDFService.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FoxitPDFEditorUpdateService.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FoxitUpdater.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FPCSDK.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FPCSDK64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FxCEF64/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FxCEF64/FoxitPDFCEF64.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FxCEF64/libcef.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FxCEF64/libGLESv2.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/FxCEF64/swiftshader/libGLESv2.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/iwKillSessionCache.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/iwSessionCache.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/libcef.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/libgio-2.0-0.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/libGLESv2.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/libglib-2.0-0.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/libiconv-2.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/libxml2-2.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/LocalService.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/lucene++-contrib.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/lucene++.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/mfc140u.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/mip_ClientTelemetry.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/mip_core.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/mip_file_sdk.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/mip_protection_sdk.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/mip_upe_sdk.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/ConnectedPDFLogin.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/ConnectedPDFLogin64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/ConvertToPDFShellExtension_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/AcqWeb.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/FoxitProxyServer_PH.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/accessibility.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/base.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/blink_common.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/blink_core.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/blink_modules.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/blink_platform.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/bluetooth.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/boringssl.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/capture_lib.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/cc.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/cc_mojo_embedder.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/content.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/dawn_native.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/dbghelp.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/device_gamepad.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/device_service_binder_overrides.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/device_vr.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/ffmpeg.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/fido.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/fingerprint.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/freetype_harfbuzz.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/fxhtml2pdf.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/gcm.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/gles2.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/headless_non_renderer.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/host.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/icui18n.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/icuuc.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/libperfetto.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/media.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/media_blink.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/media_mojo_services.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/midi.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/net.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/network_cpp.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/network_service.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/policy_component.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/policy_proto.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/ppapi_proxy.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/public.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/service.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/skia.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/storage_browser.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/storage_common.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/testing_api_support.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/ucrtbase.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/ui_devtools.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/v8.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/video_capture_mojom_support.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/VkLayer_khronos_validation.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/vk_swiftshader.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/webrtc_component.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/html2pdf/x86/wtf.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/IEAddin/IEAddin.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/IEAddin/IEAddin_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/NativeMessagingEXE.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/ConvertToPDF_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/ECMSdk_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/FPC_ExcelAddin_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/FPC_PPTAddin_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/FPC_WordAddin_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/FPDFRMS.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/imanageSupport_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/OutLookAddin_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/ProjectAddin_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/RMSEncryption.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/SharePointSDK_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x64/VisioAddin_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/ConvertToPDF_x86.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/ECMSdk_x86.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/FPC_ExcelAddin_x86.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/FPC_PPTAddin_x86.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/FPC_WordAddin_x86.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/FPDFRMS.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/imanageSupport_x86.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/OutLookAddin_x86.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/ProjectAddin_x86.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/RMSEncryption.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/SharePointSDK_x86.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/Creator/x86/VisioAddin_x86.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/FoxitImanExt_64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/FoxitPDFEditorBrowserAx.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/FoxitPDFEditorBrowserAx64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/fsigpades.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/FXCrypto64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/npFoxitPDFEditorPlugin.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Awl.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Barcode.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/DL180ACE.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/DL180AdobeXMP.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/DL180AGM.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/DL180CoolType.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/DL180JP2K.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/DL180PDFL.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/DL180PDFPort.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/DocumentAnalysis.ObjectsExtraction.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/DocumentAnalysis.Segmentation.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Export.WP.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/FineMachineLearning.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/FREngine.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/FREngineProcessor.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/icudt68.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/icuuc68.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Image.Codec.Jbig2.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Image.Helper.DjVuCaminova.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Image.Services.Advanced.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Image.Services.Core.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Image.Services.Transforms.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/LangInfoUnicode.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Morphology.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/NeoMathEngine.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/NeoML.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/PdfService.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/PdfToolkit.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Protection.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/RecPage.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Support/AInfo.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/Synthesis.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/OCR/FX_Abbyy_OCR/TextLayout.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/COLLADASaxFrameworkLoader.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/DwfToolkit.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/libcrypto_22.12_15.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/libxl.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/Od3dPdfConvertor.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/OdaX_22.12_15.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/OdBrepModeler_22.12_15.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/TD_DbCore_22.12_15.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/TD_Ge_22.12_15.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/TD_Gi_22.12_15.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/TD_Gs_22.12_15.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/TD_Pdfium.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDF3D/TD_U3D.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDFA/pdfEngineLight.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/PDFA/x64/pdfEngineLight.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/sd/ocr_solid.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/sd/PDFLibTool.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/sd/SolidCore.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/sd/SolidFrameworkNative.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/sd/SolidLanguage.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/sd/tesseract.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/plugins/ServicePlugin/ConnectPDFService.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/ProfileMgr.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/SendCrashReport.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Sensor.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Sensor64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/ServiceMiniNotice.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Shell Extensions/FoxitPrevHndlr.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Shell Extensions/FoxitPreviewhost.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/Shell Extensions/FoxitThumbnailHndlr_x64.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/swiftshader/libGLESv2.dll
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/TrackReview.exe
+/mnt/c/Program Files (x86)/Foxit Software/Foxit PDF Editor/ucrtbase.dll
+/mnt/c/Program Files (x86)/GenuinePlatform 3/GenuineCheck.exe
+/mnt/c/Program Files (x86)/GenuinePlatform 3/gpcore.dll
+/mnt/c/Program Files (x86)/GenuinePlatform 3/gpdrivermgr.exe
+/mnt/c/Program Files (x86)/GenuinePlatform 3/gpnotify.exe
+/mnt/c/Program Files (x86)/GenuinePlatform 3/gpservice.exe
+/mnt/c/Program Files (x86)/GenuinePlatform 3/gpsoftmgr.exe
+/mnt/c/Program Files (x86)/GenuinePlatform 3/libeay32.dll
+/mnt/c/Program Files (x86)/GenuinePlatform 3/main.exe
+/mnt/c/Program Files (x86)/GenuinePlatform 3/npgplib.dll
+/mnt/c/Program Files (x86)/GenuinePlatform 3/qtcore4.dll
+/mnt/c/Program Files (x86)/GenuinePlatform 3/qtgui4.dll
+/mnt/c/Program Files (x86)/GenuinePlatform 3/qtnetwork4.dll
+/mnt/c/Program Files (x86)/GenuinePlatform 3/unins000.exe
+/mnt/c/Program Files (x86)/GenuinePlatform 3/update.exe
+/mnt/c/Program Files (x86)/Google/GoogleUpdater/128.0.6537.0/updater.exe
+/mnt/c/Program Files (x86)/Google/Update/GoogleUpdate.exe
+/mnt/c/Program Files (x86)/HTML Help Workshop/hhc.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/Autoruns.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/BugReport.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/CrashDump.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/FileShred.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/HipsDaemon.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/HipsLog.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/HipsMain.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/HipsTray.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/HRConfig.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/HRUpdate.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/libcodecs.dll
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/libcurl.dll
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/libxsse.dll
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/NetDiag.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/NetFlow.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/RightClickMan.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/sqlite.dll
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/sysclean.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/SysDiag.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/usysdiag.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/wsctrl.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/bin/wsctrlsvc.exe
+/mnt/c/Program Files (x86)/Huorong/Sysdiag/uninst.exe
+/mnt/c/Program Files (x86)/IIS/Microsoft Web Deploy V3/msdeploy.exe
+/mnt/c/Program Files (x86)/IIS Express/appcmd.exe
+/mnt/c/Program Files (x86)/IIS Express/iisexpress.exe
+/mnt/c/Program Files (x86)/IIS Express/IisExpressAdminCmd.exe
+/mnt/c/Program Files (x86)/IIS Express/iisexpresstray.exe
+/mnt/c/Program Files (x86)/InstallShield Installation Information/{339A6383-7862-46DA-8A9D-E84180EF9424}/FrameworkServiceSetup.exe
+/mnt/c/Program Files (x86)/InstallShield Installation Information/{339A6383-7862-46DA-8A9D-E84180EF9424}/ISSetup.dll
+/mnt/c/Program Files (x86)/InstallShield Installation Information/{339A6383-7862-46DA-8A9D-E84180EF9424}/setup.exe
+/mnt/c/Program Files (x86)/InstallShield Installation Information/{36805427-5E52-4EE4-8306-50F4E3F28A3B}/MainSDKPluginSetup.exe
+/mnt/c/Program Files (x86)/InstallShield Installation Information/{36805427-5E52-4EE4-8306-50F4E3F28A3B}/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
+/mnt/c/Program Files (x86)/InstallShield Installation Information/{374883e6-b31d-4a3c-9c4a-2685a840aed4}/Setup.exe
+/mnt/c/Program Files (x86)/InstallShield Installation Information/{6EE02C78-E908-493B-B1A6-D64AFC53002F}/ISSetup.dll
+/mnt/c/Program Files (x86)/InstallShield Installation Information/{6EE02C78-E908-493B-B1A6-D64AFC53002F}/SdkSetup.exe
+/mnt/c/Program Files (x86)/InstallShield Installation Information/{6EE02C78-E908-493B-B1A6-D64AFC53002F}/setup.exe
+/mnt/c/Program Files (x86)/InstallShield Installation Information/{ab5f014e-883d-470d-bc2d-127ef91e5611}/Setup.exe
+/mnt/c/Program Files (x86)/InstallShield Installation Information/{fd36a871-5a75-4285-a469-61bbe3dbd858}/Setup.exe
+/mnt/c/Program Files (x86)/Internet Explorer/ExtExport.exe
+/mnt/c/Program Files (x86)/Internet Explorer/ieinstal.exe
+/mnt/c/Program Files (x86)/Internet Explorer/ielowutil.exe
+/mnt/c/Program Files (x86)/Internet Explorer/iexplore.exe
+/mnt/c/Program Files (x86)/letsvpn/app-3.8.0/LetsPRO.exe
+/mnt/c/Program Files (x86)/letsvpn/app-3.8.0/libwin.dll
+/mnt/c/Program Files (x86)/letsvpn/app-3.8.0/microsoft.identitymodel.dll
+/mnt/c/Program Files (x86)/letsvpn/app-3.8.0/runtimes/win-x64/native/e_sqlite3.dll
+/mnt/c/Program Files (x86)/letsvpn/driver/tapinstall.exe
+/mnt/c/Program Files (x86)/letsvpn/LetsPRO.exe
+/mnt/c/Program Files (x86)/letsvpn/ndp462-web.exe
+/mnt/c/Program Files (x86)/letsvpn/uninst.exe
+/mnt/c/Program Files (x86)/letsvpn/Update.exe
+/mnt/c/Program Files (x86)/LightingService/AsusInstallVerifier.exe
+/mnt/c/Program Files (x86)/LightingService/LightingService.exe
+/mnt/c/Program Files (x86)/LightingService/log4cxx.dll
+/mnt/c/Program Files (x86)/LightingService/Q42.HueApi.ColorConverters.dll
+/mnt/c/Program Files (x86)/LightingService/Screen_intf.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/BHO/ie_to_edge_stub.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/cookie_exporter.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/dual_engine_adapter_x64.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/dxcompiler.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/dxil.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/EBWebView/x64/EmbeddedBrowserWebView.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/EBWebView/x86/EmbeddedBrowserWebView.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/elevation_service.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/ffmpeg.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/identity_helper.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/Installer/setup.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/learning_tools.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/libGLESv2.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/mip_core.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/mip_protection_sdk.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/mojo_core.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/msedge.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/msedge.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/msedgewebview2.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/msedge_elf.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/msedge_proxy.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/msedge_pwa_launcher.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/mspdf.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/notification_click_helper.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/notification_helper.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/oneauth.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/oneds.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/onnxruntime.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/pwahelper.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/telclient.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/vk_swiftshader.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/126.0.2592.102/WidevineCdm/_platform_specific/win_x64/widevinecdm.dll
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/msedge.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/msedge_proxy.exe
+/mnt/c/Program Files (x86)/Microsoft/Edge/Application/pwahelper.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/113.0.1774.57/EBWebView/x64/EmbeddedBrowserWebView.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/114.0.1823.37/EBWebView/x64/EmbeddedBrowserWebView.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/BHO/ie_to_edge_stub.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/cookie_exporter.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/dual_engine_adapter_x64.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/dxcompiler.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/dxil.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/EBWebView/x64/EmbeddedBrowserWebView.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/EBWebView/x86/EmbeddedBrowserWebView.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/elevation_service.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/ffmpeg.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/identity_helper.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/Installer/setup.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/learning_tools.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/libGLESv2.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/mip_core.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/mip_protection_sdk.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/mojo_core.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/msedge.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/msedge.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/msedgewebview2.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/msedge_elf.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/msedge_proxy.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/msedge_pwa_launcher.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/mspdf.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/notification_helper.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/oneauth.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/oneds.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/onnxruntime.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/pwahelper.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/telclient.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/vk_swiftshader.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeCore/126.0.2592.102/WidevineCdm/_platform_specific/win_x64/widevinecdm.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/1.3.193.5/MicrosoftEdgeComRegisterShellARM64.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/1.3.193.5/MicrosoftEdgeUpdate.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/1.3.193.5/MicrosoftEdgeUpdateBroker.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/1.3.193.5/MicrosoftEdgeUpdateComRegisterShell64.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/1.3.193.5/MicrosoftEdgeUpdateCore.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/1.3.193.5/MicrosoftEdgeUpdateOnDemand.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/1.3.193.5/MicrosoftEdgeUpdateSetup.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/1.3.193.5/msedgeupdate.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/Download/{1FAB8CFE-9860-415C-A6CA-AA7D12021940}/2.0.0.34/BGAUpdate.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/Download/{2355FF0C-CD74-421A-8631-57546E824C2D}/3.3.13.0/MSPCManagerOnline_3.3.13.0.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/Download/{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}/126.0.2592.102/MicrosoftEdge_X64_126.0.2592.102_126.0.2592.87.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/Download/{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}/126.0.2592.102/MicrosoftEdge_X64_126.0.2592.102_126.0.2592.87.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/Download/{F3C4FE00-EFD5-403B-9569-398A20F1BA4A}/1.3.193.5/MicrosoftEdgeUpdateSetup_X86_1.3.193.5.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/Install/{7561038D-E78F-422F-AD28-64CF536D1507}/MicrosoftEdge_X64_126.0.2592.102_126.0.2592.87.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/Install/{F5B692AE-96B2-415B-A6D9-B7262A3F6A67}/MicrosoftEdge_X64_126.0.2592.102_126.0.2592.87.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeUpdate/MicrosoftEdgeUpdate.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/BHO/ie_to_edge_stub.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/cookie_exporter.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/d3dcompiler_47.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/dual_engine_adapter_x64.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/dxcompiler.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/dxil.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/EBWebView/x64/EmbeddedBrowserWebView.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/EBWebView/x86/EmbeddedBrowserWebView.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/elevation_service.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/ffmpeg.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/identity_helper.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/Installer/setup.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/learning_tools.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/libGLESv2.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/mip_core.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/mip_protection_sdk.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/mojo_core.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/msedge.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/msedge.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/msedgewebview2.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/msedge_elf.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/msedge_proxy.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/msedge_pwa_launcher.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/mspdf.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/notification_helper.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/oneauth.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/oneds.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/onnxruntime.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/pwahelper.exe
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/telclient.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/vk_swiftshader.dll
+/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/126.0.2592.102/WidevineCdm/_platform_specific/win_x64/widevinecdm.dll
+/mnt/c/Program Files (x86)/Microsoft Help Viewer/v2.2/HlpCtntMgr.exe
+/mnt/c/Program Files (x86)/Microsoft Help Viewer/v2.2/HlpViewer.exe
+/mnt/c/Program Files (x86)/Microsoft Help Viewer/v2.2/Microsoft.mshtml.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/ClickOnce/SignTool/signtool.exe
+/mnt/c/Program Files (x86)/Microsoft SDKs/ClickOnce Bootstrapper/Engine/Launcher.exe
+/mnt/c/Program Files (x86)/Microsoft SDKs/ClickOnce Bootstrapper/Packages/SqlExpress2008R2/SqlExpressChk.exe
+/mnt/c/Program Files (x86)/Microsoft SDKs/ClickOnce Bootstrapper/Packages/SqlExpress2012/SqlExpressChk.exe
+/mnt/c/Program Files (x86)/Microsoft SDKs/Expression/Blend/.NETFramework/v4.0/Prototyping/Libraries/en/Microsoft.Expression.Prototyping.Runtime.resources.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Expression/Blend/.NETFramework/v4.5/Prototyping/Libraries/de/Microsoft.Expression.Prototyping.Runtime.resources.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Expression/Blend/.NETFramework/v4.5/Prototyping/Libraries/en/Microsoft.Expression.Prototyping.Runtime.resources.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Expression/Blend/.NETFramework/v4.5/Prototyping/Libraries/es/Microsoft.Expression.Prototyping.Runtime.resources.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Expression/Blend/.NETFramework/v4.5/Prototyping/Libraries/fr/Microsoft.Expression.Prototyping.Runtime.resources.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Expression/Blend/.NETFramework/v4.5/Prototyping/Libraries/it/Microsoft.Expression.Prototyping.Runtime.resources.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Expression/Blend/.NETFramework/v4.5/Prototyping/Libraries/ja/Microsoft.Expression.Prototyping.Runtime.resources.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Expression/Blend/.NETFramework/v4.5/Prototyping/Libraries/ko/Microsoft.Expression.Prototyping.Runtime.resources.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Expression/Blend/.NETFramework/v4.5/Prototyping/Libraries/ru/Microsoft.Expression.Prototyping.Runtime.resources.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Expression/Blend/.NETFramework/v4.5/Prototyping/Libraries/zh-Hans/Microsoft.Expression.Prototyping.Runtime.resources.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Expression/Blend/.NETFramework/v4.5/Prototyping/Libraries/zh-Hant/Microsoft.Expression.Prototyping.Runtime.resources.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Microsoft Azure/Mobile Services/2.0/Packages/EntityFramework.6.1.1/lib/net40/EntityFramework.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Microsoft Azure/Mobile Services/2.0/Packages/EntityFramework.6.1.1/lib/net45/EntityFramework.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Microsoft Azure/Mobile Services/2.0/Packages/EntityFramework.6.1.1/tools/migrate.exe
+/mnt/c/Program Files (x86)/Microsoft SDKs/Microsoft Azure/Mobile Services/2.0/Packages/Microsoft.Data.OData.5.6.2/lib/net40/Microsoft.Data.OData.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Microsoft Azure/Mobile Services/2.0/Packages/Microsoft.Data.OData.5.6.2/lib/portable-net40+sl5+wp8+win8+wpa/Microsoft.Data.OData.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Microsoft Azure/Mobile Services/2.0/Packages/Microsoft.Data.OData.5.6.2/lib/sl4/Microsoft.Data.OData.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/Microsoft Azure/Mobile Services/2.0/Packages/WindowsAzure.ServiceBus.2.3.4.0/lib/net40-full/Microsoft.ServiceBus.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.codecoverage/16.11.0/build/netstandard1.0/CodeCoverage/amd64/CodeCoverage.exe
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.codecoverage/16.11.0/build/netstandard1.0/CodeCoverage/amd64/msdia140.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.codecoverage/16.11.0/build/netstandard1.0/CodeCoverage/amd64/msvcdis140.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.codecoverage/16.11.0/build/netstandard1.0/CodeCoverage/CodeCoverage.exe
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.codecoverage/16.11.0/build/netstandard1.0/CodeCoverage/msdia140.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.codecoverage/16.11.0/build/netstandard1.0/CodeCoverage/msvcdis140.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.codecoverage/16.11.0/build/netstandard1.0/InstrumentationEngine/x64/MicrosoftInstrumentationEngine_x64.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.codecoverage/16.11.0/build/netstandard1.0/InstrumentationEngine/x86/MicrosoftInstrumentationEngine_x86.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/Microsoft.NETCore.Runtime.CoreCLR-arm/1.0.0/runtimes/win8-arm/lib/dotnet/mscorlib.ni.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/Microsoft.NETCore.Runtime.CoreCLR-arm/1.0.0/runtimes/win8-arm/native/coreclr.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/Microsoft.NETCore.Runtime.CoreCLR-arm/1.0.0/runtimes/win8-arm/native/mscordaccore.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/Microsoft.NETCore.Runtime.CoreCLR-x64/1.0.0/runtimes/win7-x64/lib/dotnet/mscorlib.ni.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/Microsoft.NETCore.Runtime.CoreCLR-x64/1.0.0/runtimes/win7-x64/native/coreclr.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/Microsoft.NETCore.Runtime.CoreCLR-x64/1.0.0/runtimes/win7-x64/native/mscordaccore.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/Microsoft.NETCore.Runtime.CoreCLR-x64/1.0.0/runtimes/win7-x64/native/mscordbi.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/Microsoft.NETCore.Runtime.CoreCLR-x86/1.0.0/runtimes/win7-x86/lib/dotnet/mscorlib.ni.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/Microsoft.NETCore.Runtime.CoreCLR-x86/1.0.0/runtimes/win7-x86/native/coreclr.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/Microsoft.NETCore.Runtime.CoreCLR-x86/1.0.0/runtimes/win7-x86/native/mscordaccore.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.testplatform.testhost/16.11.0/build/netcoreapp1.0/x64/testhost.exe
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.testplatform.testhost/16.11.0/build/netcoreapp1.0/x86/testhost.x86.exe
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.testplatform.testhost/16.11.0/build/netcoreapp2.1/x64/testhost.exe
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.testplatform.testhost/16.11.0/build/netcoreapp2.1/x86/testhost.x86.exe
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.testplatform.testhost/16.11.0/build/uap10.0/x64/msdia140.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.testplatform.testhost/16.11.0/build/uap10.0/x86/msdia140.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.testplatform.testhost/16.11.0/lib/netcoreapp1.0/x64/msdia140.dll
+/mnt/c/Program Files (x86)/Microsoft SDKs/NuGetPackages/microsoft.testplatform.te

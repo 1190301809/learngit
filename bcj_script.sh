@@ -4,6 +4,7 @@
 input_dir=${1:-x86_binary_files}
 output_dir_bcj=${input_dir}_bcj
 output_dir_compressed=${input_dir}_compressed
+output_dir_bcj_decompressed=${input_dir}_decompressed
 output_file="file_sizes.txt"
 
 BCJ_EXE=${2:-./x86_bcj_for_script.exe}
@@ -16,6 +17,7 @@ XZ=/mnt/c/Users/mikuk/Desktop/share/ROFS_XMAN/1.bin/bin/xz
 # 创建输出目录
 mkdir -p "$output_dir_bcj"
 mkdir -p "$output_dir_compressed"
+mkdir -p "$output_dir_bcj_decompressed"
 
 # 处理并编码文件
 for input_file in "$input_dir"/*; do
@@ -37,6 +39,21 @@ for dir in "$input_dir" "$output_dir_bcj"; do
             xz -c "$file" > "$output_file_compressed" &
         fi
     done
+done
+wait
+
+for file in "$output_dir_compressed"/*.bcj.xz; do
+    if [ -f "$file" ]; then
+        filename=$(basename "$file" .xz)  # 获取去掉 .xz 后缀的文件名
+        decompressed_file="$output_dir_bcj_decompressed/$filename"
+
+        # 解压 .xz 文件
+        xz -d -c "$file" > "$decompressed_file"
+
+        # 用 BCJ_EXE 进行解码
+        output_file_decoded="$output_dir_bcj_decompressed/${filename%.bcj}"
+        ${BCJ_EXE} "$decompressed_file" "$output_file_decoded" 0 &
+    fi
 done
 wait
 

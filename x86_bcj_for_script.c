@@ -112,18 +112,6 @@ x86_code(void *simple_ptr, uint32_t now_pos, bool is_encoder,
 	return buffer_pos;
 }
 
-// 打印二进制数据的十六进制表示
-void print_binary_data(const uint8_t *data, size_t size) {
-    for (size_t i = 0; i < size; ++i) {
-        printf("%02X ", data[i]);
-        if ((i + 1) % 16 == 0) {
-            printf("\n");
-        }
-    }
-    printf("\n");
-}
-
-
 void read_binary_data(const char *input_file, const char *output_txt_file) {
     // 打开输入文件
     FILE *input = fopen(input_file, "rb");
@@ -179,9 +167,6 @@ void read_binary_data(const char *input_file, const char *output_txt_file) {
 
 int main(int argc, char *argv[])
 {
-    // const char *input_file = "testfile";
-    // const char *output_file = "testfile_processed";
-    // bool is_encoder = true; // Set to true if encoding, false if decoding
 
     const char *input_file = argv[1];
     const char *output_file = argv[2];
