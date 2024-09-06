@@ -1,0 +1,68 @@
+Description
+=======================
+In data compression, BCJ, short for Branch-Call-Jump, refers to a technique that improves the compression of machine code of executable binaries by replacing relative branch addresses with absolute ones. This allows a LZMA compressor to identify duplicate targets and archive higher compression rate. BCJ is also used in 7-zip compression utility as default filter for executable binaries.
+
+In erofs, the compression ratio is high in certain scenes, and it is hoped to increase bcj to obtain better compression ratio benefits without affecting the overall performance of erofs.
+
+Bcj algorithm has been implemented in xz library, but it is only supported by lzma2. Therefore, we hope to realize bcj filtering, so that it can be applied to various compression algorithms. Before adding bcj features to erofs, we designed a simple verification of optimization. The binary files were filtered by bcj algorithm, then we compared the product size of direct xz compression with the ones of compression after bcj.
+
+Bcj algorithm distinguishesInstruction Set Architecture because their instruction structures are different. We tested the bcj optimization rate under x86 and arm64 architectures.
+
+This is the test under x86.The files come from Windows x86 system library.The optimization rate is defined as follow:
+compressed size / (compressed size −BCJ compressed size) * 100%
+(The same as compressed rate / (compressed rate −BCJ compressed rate) * 100%) 
+================================================================================
+Filename                                    				Size     		Compressed_size 	Bcj_Compressed_size	Optimization rate
+EmbeddedBrowserWebView.dll                  	5551048  	1865556         		1710220            		8.33%
+FineMachineLearning.dll                     		8077648  	1420344         		1411896            		0.59%
+HipsLog.exe                                 				820328   	282404          			259364             		8.16%
+IisExpressAdminCmd.exe                      		33216    		16532           			16540              		-0.05%
+MNN.dll                                     				1985328  	627112          			568036             		9.42%
+Microsoft.Data.OData.dll                    		1513640  	342256          			344080             		-0.53%
+MicrosoftInstrumentationEngine_x64.dll      	1423760  	358996          			333100             		7.21%
+NetDiag.exe                                 				391272   	139624          			134760             		3.48%
+System.Private.DataContractSerialization.dll	1917088  	664268          			665216             		-0.14%
+alivcffmpeg.dll                             				13676816 	4779772         		4675168            		2.19%
+all.list                                    					55014    		5264            			5264               		0.00%
+avcodec-58.dll                              			29029864 	8816308         		8700284            		1.32%
+dtnest.dll                                  				2763568  	926696          			854476             		7.79%
+dxcompiler.dll                              			17676736 	5276540         		4701752            		10.89%
+libGLESv2.dll                               				7861760  	2145760         		1917116            		10.66%
+liblzma.a                                   				2013738  	420800          			425644             		-1.15%
+liblzma.so.5.4.3                            				943544   	331712          			330464             		0.38%
+live_new.dll                                				12908336 	3353912         		3054668            		8.92%
+lz4                                         					300912   	112040          			109356             		2.40%
+msedgewebview2.exe                          		3422672  	1223496         		1147836            		6.18%
+ndp462-web.exe                              			1429344  	1320244         		1315632            		0.35%
+nf_sdk.dll                                  				18581808 	4337740         		4295872            		0.97%
+opencv_world343.dll                         			66492720 	11798500        		11507628           		2.47%
+out.list                                    				91030    		8432            			8432              	 		0.00%
+telclient.dll                               				2297808  	756088          			695840             		7.97%
+typescript                                  				1458688  	72328           			72328              		0.00%
+vmware-usbarbitrator64.exe                  		1053048  	361496          			346172             		4.24%
+vsgraphicsremoteengine.exe                  		4011672  	997592          			893212             		10.46%
+xz                                          					275736   	04544          			102376             		2.07%
+================================================================================
+
+This is the test under arm64.The files come from Linux arm64 system library.
+=================================================================
+Filename               		Size     		Bcj_Compressed_size	Compressed_size 	Optimization rate
+busybox                		1045944  	501708            		471512          			6.02%
+unstripped             	1311120  	552188            		522000          			5.47%
+vc4_dri.so             		24193712 	6281560           		5932864         		5.55%
+virtio_gpu_dri.so      	24193712 	6281560           		5932864         		5.55%
+vmwgfx_dri.so          	24193712 	6281560           		5932864         		5.55%
+zenity                 		123192   	33488             		30904           			7.72%
+zgrep                  		8103     		3136              			3136            			0.00%
+zink_dri.so            		24193712 	6281560           		5932864         		5.55%
+zip1                   		195256   	73348             		69540           			5.19%
+zipcloak               		63672    		24464             		23336           			4.61%
+zipdetails             		60065    		14348             		14348           			0.00%
+zipinfo                		157912   	64136             		62300           			2.86%
+zipnote                		63672    		23340             		22264           			4.61%
+zipsplit               		55480    		21700             		20828           			4.02%
+zjsdecode              	26792    		9428              			9224            			2.16%
+zstd1                  		760200   	275752            		266408          			3.39%
+=================================================================
+
+It can be noted that the bcj optimization rate is related to the file. On average, the optimization rate is about 5%, and the optimization rate of arm64 is more stable than that of x86. And not all files have biggish effects after bcj processing, and some files even have negative effects. It is speculated that bcj can't play its expected role because of a large number of dynamic links used in binary files.
