@@ -17,108 +17,112 @@ This is the test under x86.The files come from Windows x86 system library.The op
 compressed size / (compressed size −BCJ compressed size) * 100%
 (The same as compressed rate / (compressed rate −BCJ compressed rate) * 100%) 
 ================================================================================
-Filename                                        Size            Compressed_size         Bcj_Compressed_size     Optimization rate
-EmbeddedBrowserWebView.dll                      5551048         1865556                 1710220                 8.33%
-FineMachineLearning.dll                         8077648         1420344                 1411896                 0.59%
-HipsLog.exe                                     820328          282404                  259364                  8.16%
-IisExpressAdminCmd.exe                          33216           16532                   16540                   -0.05%
-MNN.dll                                         1985328         627112                  568036                  9.42%
-Microsoft.Data.OData.dll                        1513640         342256                  344080                  -0.53%
-MicrosoftInstrumentationEngine_x64.dll          1423760         358996                  333100                  7.21%
-NetDiag.exe                                     391272          139624                  134760                  3.48%
-System.Private.DataContractSerialization.dll    1917088         664268                  665216                  -0.14%
-alivcffmpeg.dll                                 13676816        4779772                 4675168                 2.19%
-all.list                                        55014           5264                    5264                    0.00%
-avcodec-58.dll                                  29029864        8816308                 8700284                 1.32%
-dtnest.dll                                      2763568         926696                  854476                  7.79%
-dxcompiler.dll                                  17676736        5276540                 4701752                 10.89%
-libGLESv2.dll                                   7861760         2145760                 1917116                 10.66%
-liblzma.a                                       2013738         420800                  425644                  -1.15%
-liblzma.so.5.4.3                                943544          331712                  330464                  0.38%
-live_new.dll                                    12908336        3353912                 3054668                 8.92%
-lz4                                             300912          112040                  109356                  2.40%
-msedgewebview2.exe                              3422672         1223496                 1147836                 6.18%
-ndp462-web.exe                                  1429344         1320244                 1315632                 0.35%
-nf_sdk.dll                                      18581808        4337740                 4295872                 0.97%
-opencv_world343.dl                              66492720        11798500                11507628                2.47%
-out.lis                                         91030           8432                    8432                    0.00%
-telclient.dll                                   2297808         756088                  695840                  7.97%
-typescript                                      1458688         72328                   72328                   0.00%
-vmware-usbarbitrator64.exe                      1053048         361496                  346172                  4.24%
-vsgraphicsremoteengine.exe                      4011672         997592                  893212                  10.46%
-xz                                              275736          04544                   102376                  2.07%
+|Filename                                          |Size        |Compressed  |Bcj         |Opt_rate       |
+|EmbeddedBrowserWebView.dll                        |1865556     |1865556     |1710220     |8.33%          |
+|FineMachineLearning.dll                           |1420344     |1420344     |1411896     |0.59%          |
+|HipsLog.exe                                       |282404      |282404      |259364      |8.16%          |
+|IisExpressAdminCmd.exe                            |16532       |16532       |16540       |-0.05%         |
+|MNN.dll                                           |627112      |627112      |568036      |9.42%          |
+|Microsoft.Data.OData.dll                          |342256      |342256      |344080      |-0.53%         |
+|MicrosoftInstrumentationEngine_x64.dll            |358996      |358996      |333100      |7.21%          |
+|NetDiag.exe                                       |139624      |139624      |134760      |3.48%          |
+|System.Private.DataContractSerialization.dll      |664268      |664268      |665216      |-0.14%         |
+|alivcffmpeg.dll                                   |4779772     |4779772     |4675168     |2.19%          |
+|all.list                                          |5264        |5264        |5264        |0.00%          |
+|avcodec-58.dll                                    |8816308     |8816308     |8700284     |1.32%          |
+|dtnest.dll                                        |926696      |926696      |854476      |7.79%          |
+|dxcompiler.dll                                    |5276540     |5276540     |4701752     |10.89%         |
+|libGLESv2.dll                                     |2145760     |2145760     |1917116     |10.66%         |
+|liblzma.a                                         |420800      |420800      |425644      |-1.15%         |
+|liblzma.so.5.4.3                                  |331712      |331712      |330464      |0.38%          |
+|live_new.dll                                      |3353912     |3353912     |3054668     |8.92%          |
+|lz4                                               |112040      |112040      |109356      |2.40%          |
+|msedgewebview2.exe                                |1223496     |1223496     |1147836     |6.18%          |
+|ndp462-web.exe                                    |1320244     |1320244     |1315632     |0.35%          |
+|nf_sdk.dll                                        |4337740     |4337740     |4295872     |0.97%          |
+|opencv_world343.dll                               |11798500    |11798500    |11507628    |2.47%          |
+|out.list                                          |8432        |8432        |8432        |0.00%          |
+|telclient.dll                                     |756088      |756088      |695840      |7.97%          |
+|typescript                                        |72328       |72328       |72328       |0.00%          |
+|vmware-usbarbitrator64.exe                        |361496      |361496      |346172      |4.24%          |
+|vsgraphicsremoteengine.exe                        |997592      |997592      |893212      |10.46%         |
+|xz                                                |104544      |104544      |102376      |2.07%          |
 ================================================================================
-Filename                                        Size            Compressed_size         Bcj_Compressed_size     Optimization rate
-EmbeddedBrowserWebView.dll                      5551048         451904                  3257223                 5.64%
-FineMachineLearning.dll                         8077648         3052666                 3041502                 0.37%
-HipsLog.exe                                     820328          488998                  451855                  7.60%
-IisExpressAdminCmd.exe                          33216           22074                   22075                   -0.00%
-MNN.dll                                         1985328         1146414                 1060821                 7.47%
-Microsoft.Data.OData.dll                        1513640         694229                  695594                  -0.20%
-MicrosoftInstrumentationEngine_x64.dll          1423760         647098                  606500                  6.27%
-NetDiag.exe                                     391272          216264                  208405                  3.63%
-System.Private.DataContractSerialization.dll    1917088         1161620                 1161165                 0.04%
-alivcffmpeg.dll                                 13676816        8237962                 8073717                 1.99%
-all.list                                        55014           8933                    8933                    0.00%
-avcodec-58.dll                                  29029864        15759700                15518189                1.53%
-dtnest.dll                                      2763568         1699534                 1606487                 5.47%
-dxcompiler.dll                                  17676736        10275329                9437059                 8.16%
-libGLESv2.dll                                   7861760         4096075                 3745440                 8.56%
-liblzma.a                                       2013738         934746                  938418                  -0.39%
-liblzma.so.5.4.3                                943544          600234                  597414                  0.47%
-live_new.dll                                    12908336        5646389                 5159345                 8.63%
-lz4                                             300912          197606                  192223                  2.72%
-msedgewebview2.exe                              3422672         2155743                 2060964                 4.40%
-ndp462-web.exe                                  1429344         1377339                 1369534                 0.57%
-nf_sdk.dll                                      18581808        10068210                9982633                 0.85%
-opencv_world343.dll                             66492720        33255445                32701024                1.67%
-out.list                                        91030           14177                   14177                   0.00%
-telclient.dll                                   2297808         1354734                 1266842                 6.49%
-typescript                                      1458688         214406                  214406                  0.00%
-vmware-usbarbitrator64.exe                      1053048         620426                  597234                  3.74%
-vsgraphicsremoteengine.exe                      4011672         1854118                 1683403                 9.21%
-xz                                              275736          180533                  177464                  1.70%
-
+|Filename                                          |Size        |Compressed  |Bcj         |Opt_rate       |
+|EmbeddedBrowserWebView.dll                        |3451904     |3451904     |3257223     |5.64%          |
+|FineMachineLearning.dll                           |3052666     |3052666     |3041502     |0.37%          |
+|HipsLog.exe                                       |488998      |488998      |451855      |7.60%          |
+|IisExpressAdminCmd.exe                            |22074       |22074       |22075       |-0.00%         |
+|MNN.dll                                           |1146414     |1146414     |1060821     |7.47%          |
+|Microsoft.Data.OData.dll                          |694229      |694229      |695594      |-0.20%         |
+|MicrosoftInstrumentationEngine_x64.dll            |647098      |647098      |606500      |6.27%          |
+|NetDiag.exe                                       |216264      |216264      |208405      |3.63%          |
+|System.Private.DataContractSerialization.dll      |1161620     |1161620     |1161165     |0.04%          |
+|alivcffmpeg.dll                                   |8237962     |8237962     |8073717     |1.99%          |
+|all.list                                          |8933        |8933        |8933        |0.00%          |
+|avcodec-58.dll                                    |15759700    |15759700    |15518189    |1.53%          |
+|dtnest.dll                                        |1699534     |1699534     |1606487     |5.47%          |
+|dxcompiler.dll                                    |10275329    |10275329    |9437059     |8.16%          |
+|libGLESv2.dll                                     |4096075     |4096075     |3745440     |8.56%          |
+|liblzma.a                                         |934746      |934746      |938418      |-0.39%         |
+|liblzma.so.5.4.3                                  |600234      |600234      |597414      |0.47%          |
+|live_new.dll                                      |5646389     |5646389     |5159345     |8.63%          |
+|lz4                                               |197606      |197606      |192223      |2.72%          |
+|msedgewebview2.exe                                |2155743     |2155743     |2060964     |4.40%          |
+|ndp462-web.exe                                    |1377339     |1377339     |1369534     |0.57%          |
+|nf_sdk.dll                                        |10068210    |10068210    |9982633     |0.85%          |
+|opencv_world343.dll                               |33255445    |33255445    |32701024    |1.67%          |
+|out.list                                          |14177       |14177       |14177       |0.00%          |
+|telclient.dll                                     |1354734     |1354734     |1266842     |6.49%          |
+|typescript                                        |214406      |214406      |214406      |0.00%          |
+|vmware-usbarbitrator64.exe                        |620426      |620426      |597234      |3.74%          |
+|vsgraphicsremoteengine.exe                        |1854118     |1854118     |1683403     |9.21%          |
+|xz                                                |180533      |180533      |177464      |1.70%          |
 ================================================================================
 
 This is the test under arm64.The files come from Linux arm64 system library.The first time do with xz, the next one with lz4
 =================================================================
-Filename                    Size        Compressed_size        Bcj_Compressed_size    Optimization rate
-busybox                     1045944     501708                 471512                 6.02%
-unstripped                  1311120     552188                 522000                 5.47%
-vc4_dri.so                  24193712    6281560                5932864                5.55%
-virtio_gpu_dri.so           24193712    6281560                5932864                5.55%
-vmwgfx_dri.so               24193712    6281560                5932864                5.55%
-zenity                      123192      33488                  30904                  7.72%
-zgrep                       8103        3136                   3136                   0.00%
-zink_dri.so                 24193712    6281560                5932864                5.55%
-zip1                        195256      73348                  69540                  5.19%
-zipcloak                    63672       24464                  23336                  4.61%
-zipdetails                  60065       14348                  14348                  0.00%
-zipinfo                     157912      64136                  62300                  2.86%
-zipnote                     63672       23340                  22264                  4.61%
-zipsplit                    55480       21700                  20828                  4.02%
-zjsdecode                   26792       9428                   9224                   2.16%
-zstd1                       760200      275752                 266408                 3.39%
+|Filename                                          |Size        |Compressed  |Bcj         |Opt_rate       |
+|b_unstripped.out                                  |7148        |7148        |7304        |-2.18%         |
+|busybox                                           |501708      |501708      |471512      |6.02%          |
+|unstripped                                        |552188      |552188      |522000      |5.47%          |
+|vc4_dri.so                                        |6281560     |6281560     |5932864     |5.55%          |
+|virtio_gpu_dri.so                                 |6281560     |6281560     |5932864     |5.55%          |
+|vmwgfx_dri.so                                     |6281560     |6281560     |5932864     |5.55%          |
+|zenity                                            |33488       |33488       |30904       |7.72%          |
+|zgrep                                             |3136        |3136        |3136        |0.00%          |
+|zink_dri.so                                       |6281560     |6281560     |5932864     |5.55%          |
+|zip1                                              |73348       |73348       |69540       |5.19%          |
+|zipcloak                                          |24464       |24464       |23336       |4.61%          |
+|zipdetails                                        |14348       |14348       |14348       |0.00%          |
+|zipinfo                                           |64136       |64136       |62300       |2.86%          |
+|zipnote                                           |23340       |23340       |22264       |4.61%          |
+|zipsplit                                          |21700       |21700       |20828       |4.02%          |
+|zjsdecode                                         |9428        |9428        |9224        |2.16%          |
+|zstd1                                             |275752      |275752      |266408      |3.39%          |
+|zstdcat                                           |275752      |275752      |266408      |3.39%          |
+|zstdmt                                            |275752      |275752      |266408      |3.39%          |
 =================================================================
-Filename                    Size        Compressed_size        Bcj_Compressed_size    Optimization rate
-busybox                     1045944     864079                 833439                 3.55%
-unstripped                  1311120     973359                 942767                 3.14%
-vc4_dri.so                  24193712    12738470               12198901               4.24%
-virtio_gpu_dri.so           24193712    12738470               1219890                4.24%
-vmwgfx_dri.so               24193712    12738470               12198901               4.24%
-zenity                      123192      64108                  59829                  6.67%
-zgrep                       8103        4701                   4701                   0.00%
-zink_dri.so                 24193712    12738470               12198901               4.24%
-zip1                        195256      129419                 123540                 4.54%
-zipcloak                    63672       40458                  39014                  3.57%
-zipdetails                  60065       25198                  25198                  0.00%
-zipinfo                     157912      109260                 106390                 2.63%
-zipnote                     63672       38299                  36767                  4.00%
-zipsplit                    55480       35467                  34154                  3.70%
-zjsdecode                   26792       15251                  14854                  2.60%
-zstd1                       760200      510970                 495792                 2.97%
-
+|Filename                                          |Size        |Compressed  |Bcj         |Opt_rate       |
+|b_unstripped.out                                  |12345       |12345       |12480       |-1.09%         |
+|busybox                                           |864079      |864079      |833439      |3.55%          |
+|unstripped                                        |973359      |973359      |942767      |3.14%          |
+|vc4_dri.so                                        |12738470    |12738470    |12198901    |4.24%          |
+|virtio_gpu_dri.so                                 |12738470    |12738470    |12198901    |4.24%          |
+|vmwgfx_dri.so                                     |12738470    |12738470    |12198901    |4.24%          |
+|zenity                                            |64108       |64108       |59829       |6.67%          |
+|zgrep                                             |4701        |4701        |4701        |0.00%          |
+|zink_dri.so                                       |12738470    |12738470    |12198901    |4.24%          |
+|zip1                                              |129419      |129419      |123540      |4.54%          |
+|zipcloak                                          |40458       |40458       |39014       |3.57%          |
+|zipdetails                                        |25198       |25198       |25198       |0.00%          |
+|zipinfo                                           |109260      |109260      |106390      |2.63%          |
+|zipnote                                           |38299       |38299       |36767       |4.00%          |
+|zipsplit                                          |35467       |35467       |34154       |3.70%          |
+|zjsdecode                                         |15251       |15251       |14854       |2.60%          |
+|zstd1                                             |510970      |510970      |495792      |2.97%          |
+|zstdcat                                           |510970      |510970      |495792      |2.97%          |
+|zstdmt                                            |510970      |510970      |495792      |2.97%          |
 =================================================================
 
 It can be noted that the bcj optimization rate is related to the file. On average, the optimization rate is about 5%, and the optimization rate of arm64 is more stable than that of x86. And not all files have biggish effects after bcj processing, and some files even have negative effects. It is speculated that bcj can't play its expected role because of a large number of dynamic links used in binary files.
@@ -126,299 +130,298 @@ It can be noted that the bcj optimization rate is related to the file. On averag
 After that, I implemented bcj in erofs-utils by doing bcj-coding when reading each file in mkfs and do bcj-decoding when writing each file in fsck.This implementation is rough because the whole file is processed directly before compression and after decompression, but it is enough to estimate the optimization rate in making image.
 
 This is the test of making x86 bcj images. The origin images and the bcj images are compared.The optimization rate of each file in the mirror and the optimization rate of the whole mirror are given.
-=================================================================
-|erofs_image                                     |orgin_size  |bcj_x86     |Opt_ratio|
-|--                                              |--          |--          |--       |
-|x86_elf_bin_zlz4hc_9_C_4096                     |118190080   |114937856   |2.75%    |
-|  =>alivcffmpeg.dll                             |8347648     |8208384     |1.67%    |
-|  =>all.list                                    |8192        |8192        |0.00%    |
-|  =>avcodec-58.dll                              |16121856    |15900672    |1.37%    |
-|  =>dtnest.dll                                  |1708032     |1630208     |4.56%    |
-|  =>dxcompiler.dll                              |10362880    |9637888     |7.00%    |
-|  =>EmbeddedBrowserWebView.dll                  |3473408     |3313664     |4.60%    |
-|  =>FineMachineLearning.dll                     |4087808     |4083712     |0.10%    |
-|  =>HipsLog.exe                                 |487424      |454656      |6.72%    |
-|  =>IisExpressAdminCmd.exe                      |24576       |24576       |0.00%    |
-|  =>libGLESv2.dll                               |4096000     |3784704     |7.60%    |
-|  =>liblzma.a                                   |917504      |921600      |-0.45%   |
-|  =>liblzma.so.5.4.3                            |581632      |581632      |0.00%    |
-|  =>live_new.dll                                |5832704     |5402624     |7.37%    |
-|  =>lz4                                         |204800      |200704      |2.00%    |
-|  =>Microsoft.Data.OData.dll                    |675840      |675840      |0.00%    |
-|  =>MicrosoftInstrumentationEngine_x64.dll      |634880      |593920      |6.45%    |
-|  =>MNN.dll                                     |1175552     |1101824     |6.27%    |
-|  =>msedgewebview2.exe                          |2170880     |2084864     |3.96%    |
-|  =>ndp462-web.exe                              |1368064     |1363968     |0.30%    |
-|  =>NetDiag.exe                                 |217088      |212992      |1.89%    |
-|  =>nf_sdk.dll                                  |11374592    |11300864    |0.65%    |
-|  =>opencv_world343.dll                         |38825984    |38211584    |1.58%    |
-|  =>out.list                                    |16384       |16384       |0.00%    |
-|  =>System.Private.DataContractSerialization.dll|1146880     |1146880     |0.00%    |
-|  =>telclient.dll                               |1388544     |1310720     |5.60%    |
-|  =>typescript                                  |225280      |225280      |0.00%    |
-|  =>vmware-usbarbitrator64.exe                  |610304      |589824      |3.36%    |
-|  =>vsgraphicsremoteengine.exe                  |1822720     |1671168     |8.31%    |
-|  =>xz                                          |172032      |167936      |2.38%    |
-|x86_elf_bin_zlz4hc_9_C_8192                     |109514752   |106061824   |3.15%    |
-|  =>alivcffmpeg.dll                             |7946240     |7786496     |2.01%    |
-|  =>all.list                                    |8192        |8192        |0.00%    |
-|  =>avcodec-58.dll                              |15151104    |14921728    |1.51%    |
-|  =>dtnest.dll                                  |1622016     |1531904     |5.56%    |
-|  =>dxcompiler.dll                              |9826304     |9060352     |7.79%    |
-|  =>EmbeddedBrowserWebView.dll                  |3293184     |3117056     |5.35%    |
-|  =>FineMachineLearning.dll                     |3502080     |3469312     |0.94%    |
-|  =>HipsLog.exe                                 |462848      |434176      |6.19%    |
-|  =>IisExpressAdminCmd.exe                      |24576       |24576       |0.00%    |
-|  =>libGLESv2.dll                               |3858432     |3543040     |8.17%    |
-|  =>liblzma.a                                   |884736      |888832      |-0.46%   |
-|  =>liblzma.so.5.4.3                            |557056      |557056      |0.00%    |
-|  =>live_new.dll                                |5476352     |5033984     |8.08%    |
-|  =>lz4                                         |192512      |188416      |2.13%    |
-|  =>Microsoft.Data.OData.dll                    |638976      |638976      |0.00%    |
-|  =>MicrosoftInstrumentationEngine_x64.dll      |602112      |561152      |6.80%    |
-|  =>MNN.dll                                     |1101824     |1028096     |6.69%    |
-|  =>msedgewebview2.exe                          |2064384     |1982464     |3.97%    |
-|  =>ndp462-web.exe                              |1363968     |1359872     |0.30%    |
-|  =>NetDiag.exe                                 |208896      |204800      |1.96%    |
-|  =>nf_sdk.dll                                  |10334208    |10240000    |0.91%    |
-|  =>opencv_world343.dll                         |35184640    |34525184    |1.87%    |
-|  =>out.list                                    |16384       |16384       |0.00%    |
-|  =>System.Private.DataContractSerialization.dll|1105920     |1105920     |0.00%    |
-|  =>telclient.dll                               |1302528     |1224704     |5.97%    |
-|  =>typescript                                  |180224      |180224      |0.00%    |
-|  =>vmware-usbarbitrator64.exe                  |585728      |565248      |3.50%    |
-|  =>vsgraphicsremoteengine.exe                  |1744896     |1589248     |8.92%    |
-|  =>xz                                          |163840      |163840      |0.00%    |
-|x86_elf_bin_zlzma_C_4096                        |82345984    |80248832    |2.55%    |
-|  =>alivcffmpeg.dll                             |5885952     |5804032     |1.39%    |
-|  =>all.list                                    |8192        |8192        |0.00%    |
-|  =>avcodec-58.dll                              |11362304    |11227136    |1.19%    |
-|  =>dtnest.dll                                  |1220608     |1159168     |5.03%    |
-|  =>dxcompiler.dll                              |7380992     |6922240     |6.22%    |
-|  =>EmbeddedBrowserWebView.dll                  |2510848     |2400256     |4.40%    |
-|  =>FineMachineLearning.dll                     |2818048     |2797568     |0.73%    |
-|  =>HipsLog.exe                                 |344064      |323584      |5.95%    |
-|  =>IisExpressAdminCmd.exe                      |20480       |20480       |0.00%    |
-|  =>libGLESv2.dll                               |2805760     |2609152     |7.01%    |
-|  =>liblzma.a                                   |577536      |581632      |-0.71%   |
-|  =>liblzma.so.5.4.3                            |389120      |385024      |1.05%    |
-|  =>live_new.dll                                |4362240     |4091904     |6.20%    |
-|  =>lz4                                         |147456      |143360      |2.78%    |
-|  =>Microsoft.Data.OData.dll                    |421888      |421888      |0.00%    |
-|  =>MicrosoftInstrumentationEngine_x64.dll      |442368      |417792      |5.56%    |
-|  =>MNN.dll                                     |835584      |782336      |6.37%    |
-|  =>msedgewebview2.exe                          |1597440     |1544192     |3.33%    |
-|  =>ndp462-web.exe                              |1335296     |1331200     |0.31%    |
-|  =>NetDiag.exe                                 |163840      |159744      |2.50%    |
-|  =>nf_sdk.dll                                  |7663616     |7610368     |0.69%    |
-|  =>opencv_world343.dll                         |26206208    |25829376    |1.44%    |
-|  =>out.list                                    |12288       |12288       |0.00%    |
-|  =>System.Private.DataContractSerialization.dll|802816      |802816      |0.00%    |
-|  =>telclient.dll                               |995328      |942080      |5.35%    |
-|  =>typescript                                  |131072      |131072      |0.00%    |
-|  =>vmware-usbarbitrator64.exe                  |425984      |413696      |2.88%    |
-|  =>vsgraphicsremoteengine.exe                  |1249280     |1150976     |7.87%    |
-|  =>xz                                          |118784      |114688      |3.45%    |
-|x86_elf_bin_zlzma_C_8192                        |75280384    |73175040    |2.80%    |
-|  =>alivcffmpeg.dll                             |5603328     |5509120     |1.68%    |
-|  =>all.list                                    |8192        |8192        |0.00%    |
-|  =>avcodec-58.dll                              |10649600    |10547200    |0.96%    |
-|  =>dtnest.dll                                  |1134592     |1077248     |5.05%    |
-|  =>dxcompiler.dll                              |6918144     |6430720     |7.05%    |
-|  =>EmbeddedBrowserWebView.dll                  |2359296     |2240512     |5.03%    |
-|  =>FineMachineLearning.dll                     |2338816     |2334720     |0.18%    |
-|  =>HipsLog.exe                                 |327680      |303104      |7.50%    |
-|  =>IisExpressAdminCmd.exe                      |20480       |20480       |0.00%    |
-|  =>libGLESv2.dll                               |2629632     |2424832     |7.79%    |
-|  =>liblzma.a                                   |540672      |540672      |0.00%    |
-|  =>liblzma.so.5.4.3                            |368640      |368640      |0.00%    |
-|  =>live_new.dll                                |4083712     |3801088     |6.92%    |
-|  =>lz4                                         |131072      |131072      |0.00%    |
-|  =>Microsoft.Data.OData.dll                    |397312      |397312      |0.00%    |
-|  =>MicrosoftInstrumentationEngine_x64.dll      |417792      |393216      |5.88%    |
-|  =>MNN.dll                                     |774144      |720896      |6.88%    |
-|  =>msedgewebview2.exe                          |1503232     |1449984     |3.54%    |
-|  =>ndp462-web.exe                              |1331200     |1327104     |0.31%    |
-|  =>NetDiag.exe                                 |155648      |151552      |2.63%    |
-|  =>nf_sdk.dll                                  |6881280     |6828032     |0.77%    |
-|  =>opencv_world343.dll                         |23089152    |22720512    |1.60%    |
-|  =>out.list                                    |12288       |12288       |0.00%    |
-|  =>System.Private.DataContractSerialization.dll|761856      |761856      |0.00%    |
-|  =>telclient.dll                               |925696      |872448      |5.75%    |
-|  =>typescript                                  |110592      |110592      |0.00%    |
-|  =>vmware-usbarbitrator64.exe                  |405504      |393216      |3.03%    |
-|  =>vsgraphicsremoteengine.exe                  |1175552     |1077248     |8.36%    |
-|  =>xz                                          |114688      |110592      |3.57%    |
-=================================================================
+========================================================================================
+|erofs_image                                       |orgin_size  |bcj_x86     |Opt_ratio|
+|--                                                |--          |--          |--       |
+|x86_elf_bin_zlz4hc_9_C_4096                       |118190080   |114937856   |2.75%    |
+|  =>alivcffmpeg.dll                               |8347648     |8208384     |1.67%    |
+|  =>all.list                                      |8192        |8192        |0.00%    |
+|  =>avcodec-58.dll                                |16121856    |15900672    |1.37%    |
+|  =>dtnest.dll                                    |1708032     |1630208     |4.56%    |
+|  =>dxcompiler.dll                                |10362880    |9637888     |7.00%    |
+|  =>EmbeddedBrowserWebView.dll                    |3473408     |3313664     |4.60%    |
+|  =>FineMachineLearning.dll                       |4087808     |4083712     |0.10%    |
+|  =>HipsLog.exe                                   |487424      |454656      |6.72%    |
+|  =>IisExpressAdminCmd.exe                        |24576       |24576       |0.00%    |
+|  =>libGLESv2.dll                                 |4096000     |3784704     |7.60%    |
+|  =>liblzma.a                                     |917504      |921600      |-0.45%   |
+|  =>liblzma.so.5.4.3                              |581632      |581632      |0.00%    |
+|  =>live_new.dll                                  |5832704     |5402624     |7.37%    |
+|  =>lz4                                           |204800      |200704      |2.00%    |
+|  =>Microsoft.Data.OData.dll                      |675840      |675840      |0.00%    |
+|  =>MicrosoftInstrumentationEngine_x64.dll        |634880      |593920      |6.45%    |
+|  =>MNN.dll                                       |1175552     |1101824     |6.27%    |
+|  =>msedgewebview2.exe                            |2170880     |2084864     |3.96%    |
+|  =>ndp462-web.exe                                |1368064     |1363968     |0.30%    |
+|  =>NetDiag.exe                                   |217088      |212992      |1.89%    |
+|  =>nf_sdk.dll                                    |11374592    |11300864    |0.65%    |
+|  =>opencv_world343.dll                           |38825984    |38211584    |1.58%    |
+|  =>out.list                                      |16384       |16384       |0.00%    |
+|  =>System.Private.DataContractSerialization.dll  |1146880     |1146880     |0.00%    |
+|  =>telclient.dll                                 |1388544     |1310720     |5.60%    |
+|  =>typescript                                    |225280      |225280      |0.00%    |
+|  =>vmware-usbarbitrator64.exe                    |610304      |589824      |3.36%    |
+|  =>vsgraphicsremoteengine.exe                    |1822720     |1671168     |8.31%    |
+|  =>xz                                            |172032      |167936      |2.38%    |
+|x86_elf_bin_zlz4hc_9_C_8192                       |109514752   |106061824   |3.15%    |
+|  =>alivcffmpeg.dll                               |7946240     |7786496     |2.01%    |
+|  =>all.list                                      |8192        |8192        |0.00%    |
+|  =>avcodec-58.dll                                |15151104    |14921728    |1.51%    |
+|  =>dtnest.dll                                    |1622016     |1531904     |5.56%    |
+|  =>dxcompiler.dll                                |9826304     |9060352     |7.79%    |
+|  =>EmbeddedBrowserWebView.dll                    |3293184     |3117056     |5.35%    |
+|  =>FineMachineLearning.dll                       |3502080     |3469312     |0.94%    |
+|  =>HipsLog.exe                                   |462848      |434176      |6.19%    |
+|  =>IisExpressAdminCmd.exe                        |24576       |24576       |0.00%    |
+|  =>libGLESv2.dll                                 |3858432     |3543040     |8.17%    |
+|  =>liblzma.a                                     |884736      |888832      |-0.46%   |
+|  =>liblzma.so.5.4.3                              |557056      |557056      |0.00%    |
+|  =>live_new.dll                                  |5476352     |5033984     |8.08%    |
+|  =>lz4                                           |192512      |188416      |2.13%    |
+|  =>Microsoft.Data.OData.dll                      |638976      |638976      |0.00%    |
+|  =>MicrosoftInstrumentationEngine_x64.dll        |602112      |561152      |6.80%    |
+|  =>MNN.dll                                       |1101824     |1028096     |6.69%    |
+|  =>msedgewebview2.exe                            |2064384     |1982464     |3.97%    |
+|  =>ndp462-web.exe                                |1363968     |1359872     |0.30%    |
+|  =>NetDiag.exe                                   |208896      |204800      |1.96%    |
+|  =>nf_sdk.dll                                    |10334208    |10240000    |0.91%    |
+|  =>opencv_world343.dll                           |35184640    |34525184    |1.87%    |
+|  =>out.list                                      |16384       |16384       |0.00%    |
+|  =>System.Private.DataContractSerialization.dll  |1105920     |1105920     |0.00%    |
+|  =>telclient.dll                                 |1302528     |1224704     |5.97%    |
+|  =>typescript                                    |180224      |180224      |0.00%    |
+|  =>vmware-usbarbitrator64.exe                    |585728      |565248      |3.50%    |
+|  =>vsgraphicsremoteengine.exe                    |1744896     |1589248     |8.92%    |
+|  =>xz                                            |163840      |163840      |0.00%    |
+|x86_elf_bin_zlzma_C_4096                          |82345984    |80248832    |2.55%    |
+|  =>alivcffmpeg.dll                               |5885952     |5804032     |1.39%    |
+|  =>all.list                                      |8192        |8192        |0.00%    |
+|  =>avcodec-58.dll                                |11362304    |11227136    |1.19%    |
+|  =>dtnest.dll                                    |1220608     |1159168     |5.03%    |
+|  =>dxcompiler.dll                                |7380992     |6922240     |6.22%    |
+|  =>EmbeddedBrowserWebView.dll                    |2510848     |2400256     |4.40%    |
+|  =>FineMachineLearning.dll                       |2818048     |2797568     |0.73%    |
+|  =>HipsLog.exe                                   |344064      |323584      |5.95%    |
+|  =>IisExpressAdminCmd.exe                        |20480       |20480       |0.00%    |
+|  =>libGLESv2.dll                                 |2805760     |2609152     |7.01%    |
+|  =>liblzma.a                                     |577536      |581632      |-0.71%   |
+|  =>liblzma.so.5.4.3                              |389120      |385024      |1.05%    |
+|  =>live_new.dll                                  |4362240     |4091904     |6.20%    |
+|  =>lz4                                           |147456      |143360      |2.78%    |
+|  =>Microsoft.Data.OData.dll                      |421888      |421888      |0.00%    |
+|  =>MicrosoftInstrumentationEngine_x64.dll        |442368      |417792      |5.56%    |
+|  =>MNN.dll                                       |835584      |782336      |6.37%    |
+|  =>msedgewebview2.exe                            |1597440     |1544192     |3.33%    |
+|  =>ndp462-web.exe                                |1335296     |1331200     |0.31%    |
+|  =>NetDiag.exe                                   |163840      |159744      |2.50%    |
+|  =>nf_sdk.dll                                    |7663616     |7610368     |0.69%    |
+|  =>opencv_world343.dll                           |26206208    |25829376    |1.44%    |
+|  =>out.list                                      |12288       |12288       |0.00%    |
+|  =>System.Private.DataContractSerialization.dll  |802816      |802816      |0.00%    |
+|  =>telclient.dll                                 |995328      |942080      |5.35%    |
+|  =>typescript                                    |131072      |131072      |0.00%    |
+|  =>vmware-usbarbitrator64.exe                    |425984      |413696      |2.88%    |
+|  =>vsgraphicsremoteengine.exe                    |1249280     |1150976     |7.87%    |
+|  =>xz                                            |118784      |114688      |3.45%    |
+|x86_elf_bin_zlzma_C_8192                          |75280384    |73175040    |2.80%    |
+|  =>alivcffmpeg.dll                               |5603328     |5509120     |1.68%    |
+|  =>all.list                                      |8192        |8192        |0.00%    |
+|  =>avcodec-58.dll                                |10649600    |10547200    |0.96%    |
+|  =>dtnest.dll                                    |1134592     |1077248     |5.05%    |
+|  =>dxcompiler.dll                                |6918144     |6430720     |7.05%    |
+|  =>EmbeddedBrowserWebView.dll                    |2359296     |2240512     |5.03%    |
+|  =>FineMachineLearning.dll                       |2338816     |2334720     |0.18%    |
+|  =>HipsLog.exe                                   |327680      |303104      |7.50%    |
+|  =>IisExpressAdminCmd.exe                        |20480       |20480       |0.00%    |
+|  =>libGLESv2.dll                                 |2629632     |2424832     |7.79%    |
+|  =>liblzma.a                                     |540672      |540672      |0.00%    |
+|  =>liblzma.so.5.4.3                              |368640      |368640      |0.00%    |
+|  =>live_new.dll                                  |4083712     |3801088     |6.92%    |
+|  =>lz4                                           |131072      |131072      |0.00%    |
+|  =>Microsoft.Data.OData.dll                      |397312      |397312      |0.00%    |
+|  =>MicrosoftInstrumentationEngine_x64.dll        |417792      |393216      |5.88%    |
+|  =>MNN.dll                                       |774144      |720896      |6.88%    |
+|  =>msedgewebview2.exe                            |1503232     |1449984     |3.54%    |
+|  =>ndp462-web.exe                                |1331200     |1327104     |0.31%    |
+|  =>NetDiag.exe                                   |155648      |151552      |2.63%    |
+|  =>nf_sdk.dll                                    |6881280     |6828032     |0.77%    |
+|  =>opencv_world343.dll                           |23089152    |22720512    |1.60%    |
+|  =>out.list                                      |12288       |12288       |0.00%    |
+|  =>System.Private.DataContractSerialization.dll  |761856      |761856      |0.00%    |
+|  =>telclient.dll                                 |925696      |872448      |5.75%    |
+|  =>typescript                                    |110592      |110592      |0.00%    |
+|  =>vmware-usbarbitrator64.exe                    |405504      |393216      |3.03%    |
+|  =>vsgraphicsremoteengine.exe                    |1175552     |1077248     |8.36%    |
+|  =>xz                                            |114688      |110592      |3.57%    |
+=========================================================================================
 
 These are alse x86-bcj images but with some other files.In this group of files, we can see that some files get almost no income. Because erofs takes fixed-length output, if the compression rate generated by bcj is not enough to reduce one block, it will not produce practical effect. Some files can get a little profit when the output block size is 4096, but it becomes ineffective when the block size is increased to 8192, which may also be caused by this reason.
-=================================================================
-|erofs_image                        |orgin_size  |bcj_x86     |Opt_ratio|
-|--                                 |--          |--          |--       |
-|x86elf_bin_zlz4hc_9_C_4096         |1658880     |1593344     |3.95%    |
-|  =>busybox                        |1413120     |1359872     |3.77%    |
-|  =>bzmore                         |1297        |1297        |0.00%    |
-|  =>rmdir                          |28672       |24576       |14.29%   |
-|  =>sed                            |73728       |69632       |5.56%    |
-|  =>setfacl                        |20480       |20480       |0.00%    |
-|  =>vdir                           |86016       |81920       |4.76%    |
-|  =>wdctl                          |20480       |20480       |0.00%    |
-|  =>zgrep                          |4096        |4096        |0.00%    |
-|  =>zless                          |2037        |2037        |0.00%    |
-|  =>zmore                          |1910        |1910        |0.00%    |
-|x86elf_bin_zlz4hc_9_C_8192         |1585152     |1523712     |3.88%    |
-|  =>busybox                        |1347584     |1298432     |3.65%    |
-|  =>bzmore                         |1297        |1297        |0.00%    |
-|  =>rmdir                          |28672       |24576       |14.29%   |
-|  =>sed                            |69632       |65536       |5.88%    |
-|  =>setfacl                        |20480       |20480       |0.00%    |
-|  =>vdir                           |81920       |77824       |5.00%    |
-|  =>wdctl                          |20480       |20480       |0.00%    |
-|  =>zgrep                          |4096        |4096        |0.00%    |
-|  =>zless                          |2037        |2037        |0.00%    |
-|  =>zmore                          |1910        |1910        |0.00%    |
-|x86elf_bin_zlzma_C_4096            |1224704     |1175552     |4.01%    |
-|  =>busybox                        |1044480     |1003520     |3.92%    |
-|  =>bzmore                         |1297        |1297        |0.00%    |
-|  =>rmdir                          |20480       |20480       |0.00%    |
-|  =>sed                            |53248       |49152       |7.69%    |
-|  =>setfacl                        |16384       |16384       |0.00%    |
-|  =>vdir                           |61440       |57344       |6.67%    |
-|  =>wdctl                          |12288       |12288       |0.00%    |
-|  =>zgrep                          |4096        |4096        |0.00%    |
-|  =>zless                          |2037        |2037        |0.00%    |
-|  =>zmore                          |1910        |1910        |0.00%    |
-|x86elf_bin_zlzma_C_8192            |1163264     |1122304     |3.52%    |
-|  =>busybox                        |991232      |950272      |4.13%    |
-|  =>bzmore                         |1297        |1297        |0.00%    |
-|  =>rmdir                          |20480       |20480       |0.00%    |
-|  =>sed                            |49152       |49152       |0.00%    |
-|  =>setfacl                        |16384       |16384       |0.00%    |
-|  =>vdir                           |57344       |57344       |0.00%    |
-|  =>wdctl                          |12288       |12288       |0.00%    |
-|  =>zgrep                          |4096        |4096        |0.00%    |
-|  =>zless                          |2037        |2037        |0.00%    |
-|  =>zmore                          |1910        |1910        |0.00%    |
-=================================================================
+=========================================================================================
+|erofs_image                                       |orgin_size  |bcj_x86     |Opt_ratio|
+|--                                                |--          |--          |--       |
+|x86elf_bin0_zlz4hc_9_C_4096                       |1658880     |1593344     |3.95%    |
+|  =>busybox                                       |1413120     |1359872     |3.77%    |
+|  =>bzmore                                        |1297        |1297        |0.00%    |
+|  =>rmdir                                         |28672       |24576       |14.29%   |
+|  =>sed                                           |73728       |69632       |5.56%    |
+|  =>setfacl                                       |20480       |20480       |0.00%    |
+|  =>vdir                                          |86016       |81920       |4.76%    |
+|  =>wdctl                                         |20480       |20480       |0.00%    |
+|  =>zgrep                                         |4096        |4096        |0.00%    |
+|  =>zless                                         |2037        |2037        |0.00%    |
+|  =>zmore                                         |1910        |1910        |0.00%    |
+|x86elf_bin0_zlz4hc_9_C_8192                       |1585152     |1523712     |3.88%    |
+|  =>busybox                                       |1347584     |1298432     |3.65%    |
+|  =>bzmore                                        |1297        |1297        |0.00%    |
+|  =>rmdir                                         |28672       |24576       |14.29%   |
+|  =>sed                                           |69632       |65536       |5.88%    |
+|  =>setfacl                                       |20480       |20480       |0.00%    |
+|  =>vdir                                          |81920       |77824       |5.00%    |
+|  =>wdctl                                         |20480       |20480       |0.00%    |
+|  =>zgrep                                         |4096        |4096        |0.00%    |
+|  =>zless                                         |2037        |2037        |0.00%    |
+|  =>zmore                                         |1910        |1910        |0.00%    |
+|x86elf_bin0_zlzma_C_4096                          |1224704     |1175552     |4.01%    |
+|  =>busybox                                       |1044480     |1003520     |3.92%    |
+|  =>bzmore                                        |1297        |1297        |0.00%    |
+|  =>rmdir                                         |20480       |20480       |0.00%    |
+|  =>sed                                           |53248       |49152       |7.69%    |
+|  =>setfacl                                       |16384       |16384       |0.00%    |
+|  =>vdir                                          |61440       |57344       |6.67%    |
+|  =>wdctl                                         |12288       |12288       |0.00%    |
+|  =>zgrep                                         |4096        |4096        |0.00%    |
+|  =>zless                                         |2037        |2037        |0.00%    |
+|  =>zmore                                         |1910        |1910        |0.00%    |
+|x86elf_bin0_zlzma_C_8192                          |1163264     |1122304     |3.52%    |
+|  =>busybox                                       |991232      |950272      |4.13%    |
+|  =>bzmore                                        |1297        |1297        |0.00%    |
+|  =>rmdir                                         |20480       |20480       |0.00%    |
+|  =>sed                                           |49152       |49152       |0.00%    |
+|  =>setfacl                                       |16384       |16384       |0.00%    |
+|  =>vdir                                          |57344       |57344       |0.00%    |
+|  =>wdctl                                         |12288       |12288       |0.00%    |
+|  =>zgrep                                         |4096        |4096        |0.00%    |
+|  =>zless                                         |2037        |2037        |0.00%    |
+|  =>zmore                                         |1910        |1910        |0.00%    |
+=========================================================================================
 
 The same thing as before but with arm64.
-=================================================================
-|erofs_image                        |orgin_size  |bcj_arm64   |Opt_ratio|
-|--                                 |--          |--          |--       |
-|aarch64_elf_bin_zlz4hc_9_C_4096    |56700928    |54857728    |3.25%    |
-|  =>b_unstripped.out               |12288       |12288       |0.00%    |
-|  =>busybox                        |856064      |827392      |3.35%    |
-|  =>unstripped                     |962560      |933888      |2.98%    |
-|  =>vc4_dri.so                     |13168640    |12738560    |3.27%    |
-|  =>virtio_gpu_dri.so              |13168640    |12738560    |3.27%    |
-|  =>vmwgfx_dri.so                  |13168640    |12738560    |3.27%    |
-|  =>zenity                         |61440       |57344       |6.67%    |
-|  =>zgrep                          |8103        |8103        |0.00%    |
-|  =>zink_dri.so                    |13168640    |12738560    |3.27%    |
-|  =>zip1                           |126976      |122880      |3.23%    |
-|  =>zipcloak                       |40960       |40960       |0.00%    |
-|  =>zipdetails                     |24576       |24576       |0.00%    |
-|  =>zipinfo                        |110592      |106496      |3.70%    |
-|  =>zipnote                        |40960       |36864       |10.00%   |
-|  =>zipsplit                       |36864       |36864       |0.00%    |
-|  =>zjsdecode                      |16384       |16384       |0.00%    |
-|  =>zstd1                          |557056      |540672      |2.94%    |
-|  =>zstdcat                        |557056      |540672      |2.94%    |
-|  =>zstdmt                         |557056      |540672      |2.94%    |
-|aarch64_elf_bin_zlz4hc_9_C_8192    |53346304    |51318784    |3.80%    |
-|  =>b_unstripped.out               |12288       |12288       |0.00%    |
-|  =>busybox                        |823296      |794624      |3.48%    |
-|  =>unstripped                     |925696      |897024      |3.10%    |
-|  =>vc4_dri.so                     |12378112    |11898880    |3.87%    |
-|  =>virtio_gpu_dri.so              |12378112    |11898880    |3.87%    |
-|  =>vmwgfx_dri.so                  |12378112    |11898880    |3.87%    |
-|  =>zenity                         |61440       |57344       |6.67%    |
-|  =>zgrep                          |8103        |8103        |0.00%    |
-|  =>zink_dri.so                    |12378112    |11898880    |3.87%    |
-|  =>zip1                           |122880      |118784      |3.33%    |
-|  =>zipcloak                       |40960       |40960       |0.00%    |
-|  =>zipdetails                     |24576       |24576       |0.00%    |
-|  =>zipinfo                        |106496      |102400      |3.85%    |
-|  =>zipnote                        |36864       |36864       |0.00%    |
-|  =>zipsplit                       |36864       |32768       |11.11%   |
-|  =>zjsdecode                      |16384       |16384       |0.00%    |
-|  =>zstd1                          |520192      |507904      |2.36%    |
-|  =>zstdcat                        |520192      |507904      |2.36%    |
-|  =>zstdmt                         |520192      |507904      |2.36%    |
-|aarch64_elf_bin_zlzma_C_4096       |37363712    |36265984    |2.94%    |
-|  =>b_unstripped.out               |8192        |8192        |0.00%    |
-|  =>busybox                        |606208      |589824      |2.70%    |
-|  =>unstripped                     |667648      |651264      |2.45%    |
-|  =>vc4_dri.so                     |8638464     |8384512     |2.94%    |
-|  =>virtio_gpu_dri.so              |8638464     |8384512     |2.94%    |
-|  =>vmwgfx_dri.so                  |8638464     |8384512     |2.94%    |
-|  =>zenity                         |36864       |36864       |0.00%    |
-|  =>zgrep                          |4096        |4096        |0.00%    |
-|  =>zink_dri.so                    |8638464     |8384512     |2.94%    |
-|  =>zip1                           |86016       |81920       |4.76%    |
-|  =>zipcloak                       |28672       |28672       |0.00%    |
-|  =>zipdetails                     |16384       |16384       |0.00%    |
-|  =>zipinfo                        |77824       |73728       |5.26%    |
-|  =>zipnote                        |28672       |24576       |14.29%   |
-|  =>zipsplit                       |24576       |24576       |0.00%    |
-|  =>zjsdecode                      |12288       |12288       |0.00%    |
-|  =>zstd1                          |385024      |372736      |3.19%    |
-|  =>zstdcat                        |385024      |372736      |3.19%    |
-|  =>zstdmt                         |385024      |372736      |3.19%    |
-|aarch64_elf_bin_zlzma_C_8192       |34217984    |33062912    |3.38%    |
-|  =>b_unstripped.out               |8192        |8192        |0.00%    |
-|  =>busybox                        |577536      |557056      |3.55%    |
-|  =>unstripped                     |630784      |610304      |3.25%    |
-|  =>vc4_dri.so                     |7905280     |7630848     |3.47%    |
-|  =>virtio_gpu_dri.so              |7905280     |7630848     |3.47%    |
-|  =>vmwgfx_dri.so                  |7905280     |7630848     |3.47%    |
-|  =>zenity                         |36864       |32768       |11.11%   |
-|  =>zgrep                          |4096        |4096        |0.00%    |
-|  =>zink_dri.so                    |7905280     |7630848     |3.47%    |
-|  =>zip1                           |81920       |77824       |5.00%    |
-|  =>zipcloak                       |28672       |24576       |14.29%   |
-|  =>zipdetails                     |16384       |16384       |0.00%    |
-|  =>zipinfo                        |73728       |69632       |5.56%    |
-|  =>zipnote                        |24576       |24576       |0.00%    |
-|  =>zipsplit                       |24576       |24576       |0.00%    |
-|  =>zjsdecode                      |12288       |12288       |0.00%    |
-|  =>zstd1                          |339968      |339968      |0.00%    |
-|  =>zstdcat                        |339968      |339968      |0.00%    |
-|  =>zstdmt                         |339968      |339968      |0.00%    |
-=================================================================
+=========================================================================================
+|erofs_image                                       |orgin_size  |bcj_arm64   |Opt_ratio|
+|--                                                |--          |--          |--       |
+|aarch64_elf_bin_zlz4hc_9_C_4096                   |56700928    |54857728    |3.25%    |
+|  =>b_unstripped.out                              |12288       |12288       |0.00%    |
+|  =>busybox                                       |856064      |827392      |3.35%    |
+|  =>unstripped                                    |962560      |933888      |2.98%    |
+|  =>vc4_dri.so                                    |13168640    |12738560    |3.27%    |
+|  =>virtio_gpu_dri.so                             |13168640    |12738560    |3.27%    |
+|  =>vmwgfx_dri.so                                 |13168640    |12738560    |3.27%    |
+|  =>zenity                                        |61440       |57344       |6.67%    |
+|  =>zgrep                                         |8103        |8103        |0.00%    |
+|  =>zink_dri.so                                   |13168640    |12738560    |3.27%    |
+|  =>zip1                                          |126976      |122880      |3.23%    |
+|  =>zipcloak                                      |40960       |40960       |0.00%    |
+|  =>zipdetails                                    |24576       |24576       |0.00%    |
+|  =>zipinfo                                       |110592      |106496      |3.70%    |
+|  =>zipnote                                       |40960       |36864       |10.00%   |
+|  =>zipsplit                                      |36864       |36864       |0.00%    |
+|  =>zjsdecode                                     |16384       |16384       |0.00%    |
+|  =>zstd1                                         |557056      |540672      |2.94%    |
+|  =>zstdcat                                       |557056      |540672      |2.94%    |
+|  =>zstdmt                                        |557056      |540672      |2.94%    |
+|aarch64_elf_bin_zlz4hc_9_C_8192                   |53346304    |51318784    |3.80%    |
+|  =>b_unstripped.out                              |12288       |12288       |0.00%    |
+|  =>busybox                                       |823296      |794624      |3.48%    |
+|  =>unstripped                                    |925696      |897024      |3.10%    |
+|  =>vc4_dri.so                                    |12378112    |11898880    |3.87%    |
+|  =>virtio_gpu_dri.so                             |12378112    |11898880    |3.87%    |
+|  =>vmwgfx_dri.so                                 |12378112    |11898880    |3.87%    |
+|  =>zenity                                        |61440       |57344       |6.67%    |
+|  =>zgrep                                         |8103        |8103        |0.00%    |
+|  =>zink_dri.so                                   |12378112    |11898880    |3.87%    |
+|  =>zip1                                          |122880      |118784      |3.33%    |
+|  =>zipcloak                                      |40960       |40960       |0.00%    |
+|  =>zipdetails                                    |24576       |24576       |0.00%    |
+|  =>zipinfo                                       |106496      |102400      |3.85%    |
+|  =>zipnote                                       |36864       |36864       |0.00%    |
+|  =>zipsplit                                      |36864       |32768       |11.11%   |
+|  =>zjsdecode                                     |16384       |16384       |0.00%    |
+|  =>zstd1                                         |520192      |507904      |2.36%    |
+|  =>zstdcat                                       |520192      |507904      |2.36%    |
+|  =>zstdmt                                        |520192      |507904      |2.36%    |
+|aarch64_elf_bin_zlzma_C_4096                      |37363712    |36265984    |2.94%    |
+|  =>b_unstripped.out                              |8192        |8192        |0.00%    |
+|  =>busybox                                       |606208      |589824      |2.70%    |
+|  =>unstripped                                    |667648      |651264      |2.45%    |
+|  =>vc4_dri.so                                    |8638464     |8384512     |2.94%    |
+|  =>virtio_gpu_dri.so                             |8638464     |8384512     |2.94%    |
+|  =>vmwgfx_dri.so                                 |8638464     |8384512     |2.94%    |
+|  =>zenity                                        |36864       |36864       |0.00%    |
+|  =>zgrep                                         |4096        |4096        |0.00%    |
+|  =>zink_dri.so                                   |8638464     |8384512     |2.94%    |
+|  =>zip1                                          |86016       |81920       |4.76%    |
+|  =>zipcloak                                      |28672       |28672       |0.00%    |
+|  =>zipdetails                                    |16384       |16384       |0.00%    |
+|  =>zipinfo                                       |77824       |73728       |5.26%    |
+|  =>zipnote                                       |28672       |24576       |14.29%   |
+|  =>zipsplit                                      |24576       |24576       |0.00%    |
+|  =>zjsdecode                                     |12288       |12288       |0.00%    |
+|  =>zstd1                                         |385024      |372736      |3.19%    |
+|  =>zstdcat                                       |385024      |372736      |3.19%    |
+|  =>zstdmt                                        |385024      |372736      |3.19%    |
+|aarch64_elf_bin_zlzma_C_8192                      |34217984    |33062912    |3.38%    |
+|  =>b_unstripped.out                              |8192        |8192        |0.00%    |
+|  =>busybox                                       |577536      |557056      |3.55%    |
+|  =>unstripped                                    |630784      |610304      |3.25%    |
+|  =>vc4_dri.so                                    |7905280     |7630848     |3.47%    |
+|  =>virtio_gpu_dri.so                             |7905280     |7630848     |3.47%    |
+|  =>vmwgfx_dri.so                                 |7905280     |7630848     |3.47%    |
+|  =>zenity                                        |36864       |32768       |11.11%   |
+|  =>zgrep                                         |4096        |4096        |0.00%    |
+|  =>zink_dri.so                                   |7905280     |7630848     |3.47%    |
+|  =>zip1                                          |81920       |77824       |5.00%    |
+|  =>zipcloak                                      |28672       |24576       |14.29%   |
+|  =>zipdetails                                    |16384       |16384       |0.00%    |
+|  =>zipinfo                                       |73728       |69632       |5.56%    |
+|  =>zipnote                                       |24576       |24576       |0.00%    |
+|  =>zipsplit                                      |24576       |24576       |0.00%    |
+|  =>zjsdecode                                     |12288       |12288       |0.00%    |
+|  =>zstd1                                         |339968      |339968      |0.00%    |
+|  =>zstdcat                                       |339968      |339968      |0.00%    |
+|  =>zstdmt                                        |339968      |339968      |0.00%    |
+=========================================================================================
 
-Squashfs is also a read-only compressed file system, and it supports bcj. Next, the same x86 directory is first whole mirrored by mksquashfs,then do mksquashfs with every file in it.T    he benefits of xz and bcj-enabled xz are compared.But bcj of squashfs only supports x86, arm, armthumb, powerpc, sparc, ia64. The arm64 files get no benifits with option -Xbcj arm.
-=================================================================
-|squashfs_image                                  |orgin_size   |bcj_arm64    |Opt_ratio|
-|squash_arm64_xz.squash                          |8667136      |8667136      |0.00%    |
-|squash_x86_xz.squash                            |64954368     |62640128     |3.56%    |
-|  =>alivcffmpeg.dll                             | 5193728     | 5087232     | 2.05%   |
-|  =>all.list                                    | 8192        | 8192        | 0.00%   |
-|  =>avcodec-58.dll                              | 9830400     | 9682944     | 1.50%   |
-|  =>dtnest.dll                                  | 1019904     | 954368      | 6.42%   |
-|  =>dxcompiler.dll                              | 6209536     | 5693440     | 8.31%   |
-|  =>EmbeddedBrowserWebView.dll                  | 2121728     | 1994752     | 5.98%   |
-|  =>FineMachineLearning.dll                     | 1802240     | 1777664     | 1.36%   |
-|  =>HipsLog.exe                                 | 299008      | 278528      | 6.84%   |
-|  =>IisExpressAdminCmd.exe                      | 20480       | 20480       | 0.00%   |
-|  =>libGLESv2.dll                               | 2396160     | 2187264     | 8.71%   |
-|  =>liblzma.a                                   | 483328      | 483328      | 0.00%   |
-|  =>liblzma.so.5.4.3                            | 344064      | 339968      | 1.19%   |
-|  =>live_new.dll                                | 3747840     | 3481600     | 7.10%   |
-|  =>lz4                                         | 118784      | 114688      | 3.44%   |
-|  =>Microsoft.Data.OData.dll                    | 372736      | 372736      | 0.00%   |
-|  =>MicrosoftInstrumentationEngine_x64.dll      | 385024      | 360448      | 6.38%   |
-|  =>MNN.dll                                     | 692224      | 634880      | 8.28%   |
-|  =>msedgewebview2.exe                          | 1363968     | 1298432     | 4.80%   |
-|  =>ndp462-web.exe                              | 1327104     | 1318912     | 0.61%   |
-|  =>NetDiag.exe                                 | 143360      | 139264      | 2.85%   |
-|  =>nf_sdk.dll                                  | 5603328     | 5537792     | 1.16%   |
-|  =>opencv_world343.dll                         | 18325504    | 17883136    | 2.41%   |
-|  =>out.list                                    | 12288       | 12288       | 0.00%   |
-|  =>System.Private.DataContractSerialization.dll| 700416      | 700416      | 0.00%   |
-|  =>telclient.dll                               | 835584      | 782336      | 6.37%   |
-|  =>typescript                                  | 106496      | 106496      | 0.00%   |
-|  =>vmware-usbarbitrator64.exe                  | 376832      | 364544      | 3.26%   |
-|  =>vsgraphicsremoteengine.exe                  | 1081344     | 983040      | 9.09%   |
-|  =>xz                                          | 110592      | 106496      | 3.70%   |
-
+Squashfs is also a read-only compressed file system, and it supports bcj. But the bcj of squashfs doesn't support arm64 so I do compression only with x86 files.The same x86 directory is first whole mirrored by mksquashfs,then do mksquashfs with every file in it.The benefits of xz and bcj-enabled xz are compared.
+===============================================================================================
+|Directory                                         |XZ_size     |BCJ_size    |Opt_rate (%)   |
+|x86_elf_bin                                       |64954368    |62640128    |3.56%          |
+|=>alivcffmpeg.dll                                 |5193728     |5087232     |2.05%          |
+|=>all.list                                        |8192        |8192        |0.00%          |
+|=>avcodec-58.dll                                  |9830400     |9682944     |1.50%          |
+|=>dtnest.dll                                      |1019904     |954368      |6.43%          |
+|=>dxcompiler.dll                                  |6209536     |5693440     |8.31%          |
+|=>EmbeddedBrowserWebView.dll                      |2121728     |1994752     |5.98%          |
+|=>FineMachineLearning.dll                         |1802240     |1777664     |1.36%          |
+|=>HipsLog.exe                                     |299008      |278528      |6.85%          |
+|=>IisExpressAdminCmd.exe                          |20480       |20480       |0.00%          |
+|=>libGLESv2.dll                                   |2396160     |2187264     |8.72%          |
+|=>liblzma.a                                       |483328      |483328      |0.00%          |
+|=>liblzma.so.5.4.3                                |344064      |339968      |1.19%          |
+|=>live_new.dll                                    |3747840     |3481600     |7.10%          |
+|=>lz4                                             |118784      |114688      |3.45%          |
+|=>Microsoft.Data.OData.dll                        |372736      |372736      |0.00%          |
+|=>MicrosoftInstrumentationEngine_x64.dll          |385024      |360448      |6.38%          |
+|=>MNN.dll                                         |692224      |634880      |8.28%          |
+|=>msedgewebview2.exe                              |1363968     |1298432     |4.80%          |
+|=>ndp462-web.exe                                  |1327104     |1318912     |0.62%          |
+|=>NetDiag.exe                                     |143360      |139264      |2.86%          |
+|=>nf_sdk.dll                                      |5603328     |5537792     |1.17%          |
+|=>opencv_world343.dll                             |18325504    |17883136    |2.41%          |
+|=>out.list                                        |12288       |12288       |0.00%          |
+|=>System.Private.DataContractSerialization.dll    |700416      |700416      |0.00%          |
+|=>telclient.dll                                   |835584      |782336      |6.37%          |
+|=>typescript                                      |106496      |106496      |0.00%          |
+|=>vmware-usbarbitrator64.exe                      |376832      |364544      |3.26%          |
+|=>vsgraphicsremoteengine.exe                      |1081344     |983040      |9.09%          |
+|=>xz                                              |110592      |106496      |3.70%          |
+===============================================================================================
